@@ -1,0 +1,46 @@
+{
+  "generation_records_ok": 500,
+  "generated_tag_total": 4474,
+  "mean_tags_per_post": 8.948,
+  "schema_valid_post_rate": 0.69,
+  "program_tag_has_any_evidence_rate": 0.691775,
+  "text_evidence_exact_quote_rate": 0.961417,
+  "image_evidence_nonempty_claim_rate": 0.997186,
+  "tag_name_equals_iab_name_rate": 0.081582,
+  "evidence_judge_response_posts": 500,
+  "evidence_judge_valid_shape_posts": 495,
+  "evidence_judge_valid_shape_rate": 0.99,
+  "evidence_judge_accept_rate": 0.803612,
+  "evidence_judge_review_rate": 0.069977,
+  "evidence_judge_reject_rate": 0.126411,
+  "evidence_judge_verdict_counts": {
+    "reject": 560,
+    "accept": 3560,
+    "review": 310
+  },
+  "evidence_judge_support_counts": {
+    "direct": 3532,
+    "unsupported": 112,
+    "strong_inference": 555,
+    "weak_inference": 222,
+    "contradicted": 9
+  },
+  "evidence_judge_evidence_exists_counts": {
+    "true": 4318,
+    "false": 112
+  },
+  "tag_assignments_after_judge_filter": 3560,
+  "unique_tag_keys": 2794,
+  "assignment_hit_rate": 0.306461,
+  "singleton_tag_rate": 0.883679,
+  "post_retrieval_hit_rate": 0.84,
+  "overbroad_tag_rate": 0.0,
+  "overbroad_definition": "document_frequency > 10.0% of posts (50)",
+  "median_other_posts_per_tag": 0.0,
+  "mean_other_posts_per_tag": 0.274159,
+  "definitions": {
+    "assignment_hit_rate": "帖子-Tag 关系中，该 Tag 还能命中至少一篇其他帖子的比例",
+    "singleton_tag_rate": "只被一篇帖子使用的不同 Tag 比例",
+    "post_retrieval_hit_rate": "至少有一个 Tag 能找到其他帖子的帖子比例"
+  }
+}

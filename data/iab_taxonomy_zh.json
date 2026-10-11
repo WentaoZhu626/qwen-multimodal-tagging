@@ -1,0 +1,4930 @@
+[
+  {
+    "id": "150",
+    "parent": "",
+    "source": "Attractions",
+    "path": "Attractions",
+    "zh": "景点与娱乐设施"
+  },
+  {
+    "id": "151",
+    "parent": "150",
+    "source": "Amusement and Theme Parks",
+    "path": "Attractions > Amusement and Theme Parks",
+    "zh": "游乐园与主题公园"
+  },
+  {
+    "id": "179",
+    "parent": "150",
+    "source": "Bars & Restaurants",
+    "path": "Attractions > Bars & Restaurants",
+    "zh": "酒吧与餐厅"
+  },
+  {
+    "id": "181",
+    "parent": "150",
+    "source": "Casinos & Gambling",
+    "path": "Attractions > Casinos & Gambling",
+    "zh": "赌场与博彩"
+  },
+  {
+    "id": "153",
+    "parent": "150",
+    "source": "Historic Site and Landmark Tours",
+    "path": "Attractions > Historic Site and Landmark Tours",
+    "zh": "历史遗迹与地标游览"
+  },
+  {
+    "id": "154",
+    "parent": "150",
+    "source": "Malls & Shopping Centers",
+    "path": "Attractions > Malls & Shopping Centers",
+    "zh": "购物中心与商场"
+  },
+  {
+    "id": "155",
+    "parent": "150",
+    "source": "Museums & Galleries",
+    "path": "Attractions > Museums & Galleries",
+    "zh": "博物馆与画廊"
+  },
+  {
+    "id": "158",
+    "parent": "150",
+    "source": "Nightclubs",
+    "path": "Attractions > Nightclubs",
+    "zh": "夜总会"
+  },
+  {
+    "id": "159",
+    "parent": "150",
+    "source": "Outdoor Activities",
+    "path": "Attractions > Outdoor Activities",
+    "zh": "户外活动"
+  },
+  {
+    "id": "160",
+    "parent": "150",
+    "source": "Parks & Nature",
+    "path": "Attractions > Parks & Nature",
+    "zh": "公园与自然景观"
+  },
+  {
+    "id": "177",
+    "parent": "150",
+    "source": "Theater Venues",
+    "path": "Attractions > Theater Venues",
+    "zh": "剧院场馆"
+  },
+  {
+    "id": "178",
+    "parent": "150",
+    "source": "Zoos & Aquariums",
+    "path": "Attractions > Zoos & Aquariums",
+    "zh": "动物园与水族馆"
+  },
+  {
+    "id": "1",
+    "parent": "",
+    "source": "Automotive",
+    "path": "Automotive",
+    "zh": "汽车"
+  },
+  {
+    "id": "2",
+    "parent": "1",
+    "source": "Auto Body Styles",
+    "path": "Automotive > Auto Body Styles",
+    "zh": "车身类型"
+  },
+  {
+    "id": "3",
+    "parent": "2",
+    "source": "Commercial Trucks",
+    "path": "Automotive > Auto Body Styles > Commercial Trucks",
+    "zh": "商用卡车"
+  },
+  {
+    "id": "8",
+    "parent": "2",
+    "source": "Convertible",
+    "path": "Automotive > Auto Body Styles > Convertible",
+    "zh": "敞篷车"
+  },
+  {
+    "id": "9",
+    "parent": "2",
+    "source": "Coupe",
+    "path": "Automotive > Auto Body Styles > Coupe",
+    "zh": "轿跑车"
+  },
+  {
+    "id": "10",
+    "parent": "2",
+    "source": "Crossover",
+    "path": "Automotive > Auto Body Styles > Crossover",
+    "zh": "跨界车"
+  },
+  {
+    "id": "11",
+    "parent": "2",
+    "source": "Hatchback",
+    "path": "Automotive > Auto Body Styles > Hatchback",
+    "zh": "掀背车"
+  },
+  {
+    "id": "12",
+    "parent": "2",
+    "source": "Microcar",
+    "path": "Automotive > Auto Body Styles > Microcar",
+    "zh": "微型车"
+  },
+  {
+    "id": "13",
+    "parent": "2",
+    "source": "Minivan",
+    "path": "Automotive > Auto Body Styles > Minivan",
+    "zh": "小型厢式车"
+  },
+  {
+    "id": "14",
+    "parent": "2",
+    "source": "Off-Road Vehicles",
+    "path": "Automotive > Auto Body Styles > Off-Road Vehicles",
+    "zh": "越野车"
+  },
+  {
+    "id": "15",
+    "parent": "2",
+    "source": "Pickup Trucks",
+    "path": "Automotive > Auto Body Styles > Pickup Trucks",
+    "zh": "皮卡"
+  },
+  {
+    "id": "4",
+    "parent": "2",
+    "source": "Sedan",
+    "path": "Automotive > Auto Body Styles > Sedan",
+    "zh": "轿车"
+  },
+  {
+    "id": "5",
+    "parent": "2",
+    "source": "Station Wagon",
+    "path": "Automotive > Auto Body Styles > Station Wagon",
+    "zh": "旅行车"
+  },
+  {
+    "id": "6",
+    "parent": "2",
+    "source": "SUV",
+    "path": "Automotive > Auto Body Styles > SUV",
+    "zh": "SUV"
+  },
+  {
+    "id": "7",
+    "parent": "2",
+    "source": "Van",
+    "path": "Automotive > Auto Body Styles > Van",
+    "zh": "厢式车"
+  },
+  {
+    "id": "30",
+    "parent": "1",
+    "source": "Auto Buying and Selling",
+    "path": "Automotive > Auto Buying and Selling",
+    "zh": "汽车买卖"
+  },
+  {
+    "id": "31",
+    "parent": "1",
+    "source": "Auto Insurance",
+    "path": "Automotive > Auto Insurance",
+    "zh": "汽车保险"
+  },
+  {
+    "id": "32",
+    "parent": "1",
+    "source": "Auto Parts",
+    "path": "Automotive > Auto Parts",
+    "zh": "汽车零部件"
+  },
+  {
+    "id": "33",
+    "parent": "1",
+    "source": "Auto Recalls",
+    "path": "Automotive > Auto Recalls",
+    "zh": "汽车召回"
+  },
+  {
+    "id": "41",
+    "parent": "1",
+    "source": "Auto Rentals",
+    "path": "Automotive > Auto Rentals",
+    "zh": "汽车租赁"
+  },
+  {
+    "id": "34",
+    "parent": "1",
+    "source": "Auto Repair",
+    "path": "Automotive > Auto Repair",
+    "zh": "汽车维修"
+  },
+  {
+    "id": "35",
+    "parent": "1",
+    "source": "Auto Safety",
+    "path": "Automotive > Auto Safety",
+    "zh": "汽车安全"
+  },
+  {
+    "id": "36",
+    "parent": "1",
+    "source": "Auto Shows",
+    "path": "Automotive > Auto Shows",
+    "zh": "车展"
+  },
+  {
+    "id": "37",
+    "parent": "1",
+    "source": "Auto Technology",
+    "path": "Automotive > Auto Technology",
+    "zh": "汽车技术"
+  },
+  {
+    "id": "38",
+    "parent": "37",
+    "source": "Auto Infotainment Technologies",
+    "path": "Automotive > Auto Technology > Auto Infotainment Technologies",
+    "zh": "汽车信息娱乐技术"
+  },
+  {
+    "id": "39",
+    "parent": "37",
+    "source": "Auto Navigation Systems",
+    "path": "Automotive > Auto Technology > Auto Navigation Systems",
+    "zh": "汽车导航系统"
+  },
+  {
+    "id": "40",
+    "parent": "37",
+    "source": "Auto Safety Technologies",
+    "path": "Automotive > Auto Technology > Auto Safety Technologies",
+    "zh": "汽车安全技术"
+  },
+  {
+    "id": "16",
+    "parent": "1",
+    "source": "Auto Type",
+    "path": "Automotive > Auto Type",
+    "zh": "车型"
+  },
+  {
+    "id": "17",
+    "parent": "16",
+    "source": "Budget Cars",
+    "path": "Automotive > Auto Type > Budget Cars",
+    "zh": "经济型汽车"
+  },
+  {
+    "id": "18",
+    "parent": "16",
+    "source": "Certified Pre-Owned Cars",
+    "path": "Automotive > Auto Type > Certified Pre-Owned Cars",
+    "zh": "认证二手车"
+  },
+  {
+    "id": "19",
+    "parent": "16",
+    "source": "Classic Cars",
+    "path": "Automotive > Auto Type > Classic Cars",
+    "zh": "经典汽车"
+  },
+  {
+    "id": "20",
+    "parent": "16",
+    "source": "Concept Cars",
+    "path": "Automotive > Auto Type > Concept Cars",
+    "zh": "概念车"
+  },
+  {
+    "id": "21",
+    "parent": "16",
+    "source": "Driverless Cars",
+    "path": "Automotive > Auto Type > Driverless Cars",
+    "zh": "无人驾驶汽车"
+  },
+  {
+    "id": "22",
+    "parent": "16",
+    "source": "Green Vehicles",
+    "path": "Automotive > Auto Type > Green Vehicles",
+    "zh": "新能源汽车"
+  },
+  {
+    "id": "23",
+    "parent": "16",
+    "source": "Luxury Cars",
+    "path": "Automotive > Auto Type > Luxury Cars",
+    "zh": "豪华汽车"
+  },
+  {
+    "id": "24",
+    "parent": "16",
+    "source": "Performance Cars",
+    "path": "Automotive > Auto Type > Performance Cars",
+    "zh": "高性能汽车"
+  },
+  {
+    "id": "25",
+    "parent": "1",
+    "source": "Car Culture",
+    "path": "Automotive > Car Culture",
+    "zh": "汽车文化"
+  },
+  {
+    "id": "26",
+    "parent": "1",
+    "source": "Dash Cam Videos",
+    "path": "Automotive > Dash Cam Videos",
+    "zh": "行车记录仪视频"
+  },
+  {
+    "id": "27",
+    "parent": "1",
+    "source": "Motorcycles",
+    "path": "Automotive > Motorcycles",
+    "zh": "摩托车"
+  },
+  {
+    "id": "28",
+    "parent": "1",
+    "source": "Road-Side Assistance",
+    "path": "Automotive > Road-Side Assistance",
+    "zh": "道路救援"
+  },
+  {
+    "id": "29",
+    "parent": "1",
+    "source": "Scooters",
+    "path": "Automotive > Scooters",
+    "zh": "踏板车"
+  },
+  {
+    "id": "42",
+    "parent": "",
+    "source": "Books and Literature",
+    "path": "Books and Literature",
+    "zh": "图书与文学"
+  },
+  {
+    "id": "43",
+    "parent": "42",
+    "source": "Art and Photography",
+    "path": "Books and Literature > Art and Photography",
+    "zh": "艺术与摄影"
+  },
+  {
+    "id": "46",
+    "parent": "42",
+    "source": "Comics and Graphic Novels",
+    "path": "Books and Literature > Comics and Graphic Novels",
+    "zh": "漫画与图像小说"
+  },
+  {
+    "id": "48",
+    "parent": "42",
+    "source": "Fiction",
+    "path": "Books and Literature > Fiction",
+    "zh": "小说"
+  },
+  {
+    "id": "49",
+    "parent": "42",
+    "source": "Poetry",
+    "path": "Books and Literature > Poetry",
+    "zh": "诗歌"
+  },
+  {
+    "id": "52",
+    "parent": "",
+    "source": "Business and Finance",
+    "path": "Business and Finance",
+    "zh": "商业与金融"
+  },
+  {
+    "id": "53",
+    "parent": "52",
+    "source": "Business",
+    "path": "Business and Finance > Business",
+    "zh": "商业"
+  },
+  {
+    "id": "54",
+    "parent": "53",
+    "source": "Business Accounting & Finance",
+    "path": "Business and Finance > Business > Business Accounting & Finance",
+    "zh": "企业会计与财务"
+  },
+  {
+    "id": "62",
+    "parent": "53",
+    "source": "Business Administration",
+    "path": "Business and Finance > Business > Business Administration",
+    "zh": "企业管理"
+  },
+  {
+    "id": "63",
+    "parent": "53",
+    "source": "Business Banking & Finance",
+    "path": "Business and Finance > Business > Business Banking & Finance",
+    "zh": "企业银行与金融"
+  },
+  {
+    "id": "64",
+    "parent": "63",
+    "source": "Angel Investment",
+    "path": "Business and Finance > Business > Business Banking & Finance > Angel Investment",
+    "zh": "天使投资"
+  },
+  {
+    "id": "65",
+    "parent": "63",
+    "source": "Bankruptcy",
+    "path": "Business and Finance > Business > Business Banking & Finance > Bankruptcy",
+    "zh": "破产"
+  },
+  {
+    "id": "66",
+    "parent": "63",
+    "source": "Business Loans",
+    "path": "Business and Finance > Business > Business Banking & Finance > Business Loans",
+    "zh": "企业贷款"
+  },
+  {
+    "id": "67",
+    "parent": "63",
+    "source": "Debt Factoring & Invoice Discounting",
+    "path": "Business and Finance > Business > Business Banking & Finance > Debt Factoring & Invoice Discounting",
+    "zh": "应收账款保理与发票贴现"
+  },
+  {
+    "id": "68",
+    "parent": "63",
+    "source": "Mergers and Acquisitions",
+    "path": "Business and Finance > Business > Business Banking & Finance > Mergers and Acquisitions",
+    "zh": "并购"
+  },
+  {
+    "id": "69",
+    "parent": "63",
+    "source": "Private Equity",
+    "path": "Business and Finance > Business > Business Banking & Finance > Private Equity",
+    "zh": "私募股权"
+  },
+  {
+    "id": "70",
+    "parent": "63",
+    "source": "Sale & Lease Back",
+    "path": "Business and Finance > Business > Business Banking & Finance > Sale & Lease Back",
+    "zh": "售后回租"
+  },
+  {
+    "id": "71",
+    "parent": "63",
+    "source": "Venture Capital",
+    "path": "Business and Finance > Business > Business Banking & Finance > Venture Capital",
+    "zh": "风险投资"
+  },
+  {
+    "id": "72",
+    "parent": "53",
+    "source": "Business I.T.",
+    "path": "Business and Finance > Business > Business I.T.",
+    "zh": "企业信息技术"
+  },
+  {
+    "id": "73",
+    "parent": "53",
+    "source": "Business Operations",
+    "path": "Business and Finance > Business > Business Operations",
+    "zh": "企业运营"
+  },
+  {
+    "id": "79",
+    "parent": "53",
+    "source": "Business Utilities",
+    "path": "Business and Finance > Business > Business Utilities",
+    "zh": "企业服务"
+  },
+  {
+    "id": "74",
+    "parent": "53",
+    "source": "Consumer Issues",
+    "path": "Business and Finance > Business > Consumer Issues",
+    "zh": "消费者权益"
+  },
+  {
+    "id": "75",
+    "parent": "74",
+    "source": "Recalls",
+    "path": "Business and Finance > Business > Consumer Issues > Recalls",
+    "zh": "产品召回"
+  },
+  {
+    "id": "76",
+    "parent": "53",
+    "source": "Executive Leadership & Management",
+    "path": "Business and Finance > Business > Executive Leadership & Management",
+    "zh": "高管领导力与管理"
+  },
+  {
+    "id": "77",
+    "parent": "53",
+    "source": "Government Business",
+    "path": "Business and Finance > Business > Government Business",
+    "zh": "政府业务"
+  },
+  {
+    "id": "78",
+    "parent": "53",
+    "source": "Green Solutions",
+    "path": "Business and Finance > Business > Green Solutions",
+    "zh": "绿色解决方案"
+  },
+  {
+    "id": "55",
+    "parent": "53",
+    "source": "Human Resources",
+    "path": "Business and Finance > Business > Human Resources",
+    "zh": "人力资源"
+  },
+  {
+    "id": "56",
+    "parent": "53",
+    "source": "Large Business",
+    "path": "Business and Finance > Business > Large Business",
+    "zh": "大型企业"
+  },
+  {
+    "id": "57",
+    "parent": "53",
+    "source": "Logistics",
+    "path": "Business and Finance > Business > Logistics",
+    "zh": "物流"
+  },
+  {
+    "id": "58",
+    "parent": "53",
+    "source": "Marketing and Advertising",
+    "path": "Business and Finance > Business > Marketing and Advertising",
+    "zh": "市场营销与广告"
+  },
+  {
+    "id": "59",
+    "parent": "53",
+    "source": "Sales",
+    "path": "Business and Finance > Business > Sales",
+    "zh": "销售"
+  },
+  {
+    "id": "60",
+    "parent": "53",
+    "source": "Small and Medium-sized Business",
+    "path": "Business and Finance > Business > Small and Medium-sized Business",
+    "zh": "中小型企业"
+  },
+  {
+    "id": "61",
+    "parent": "53",
+    "source": "Startups",
+    "path": "Business and Finance > Business > Startups",
+    "zh": "初创企业"
+  },
+  {
+    "id": "80",
+    "parent": "52",
+    "source": "Economy",
+    "path": "Business and Finance > Economy",
+    "zh": "宏观经济"
+  },
+  {
+    "id": "81",
+    "parent": "80",
+    "source": "Commodities",
+    "path": "Business and Finance > Economy > Commodities",
+    "zh": "大宗商品"
+  },
+  {
+    "id": "82",
+    "parent": "80",
+    "source": "Currencies",
+    "path": "Business and Finance > Economy > Currencies",
+    "zh": "货币"
+  },
+  {
+    "id": "83",
+    "parent": "80",
+    "source": "Financial Crisis",
+    "path": "Business and Finance > Economy > Financial Crisis",
+    "zh": "金融危机"
+  },
+  {
+    "id": "84",
+    "parent": "80",
+    "source": "Financial Reform",
+    "path": "Business and Finance > Economy > Financial Reform",
+    "zh": "金融改革"
+  },
+  {
+    "id": "85",
+    "parent": "80",
+    "source": "Financial Regulation",
+    "path": "Business and Finance > Economy > Financial Regulation",
+    "zh": "金融监管"
+  },
+  {
+    "id": "86",
+    "parent": "80",
+    "source": "Gasoline Prices",
+    "path": "Business and Finance > Economy > Gasoline Prices",
+    "zh": "汽油价格"
+  },
+  {
+    "id": "87",
+    "parent": "80",
+    "source": "Housing Market",
+    "path": "Business and Finance > Economy > Housing Market",
+    "zh": "房地产市场"
+  },
+  {
+    "id": "88",
+    "parent": "80",
+    "source": "Interest Rates",
+    "path": "Business and Finance > Economy > Interest Rates",
+    "zh": "利率"
+  },
+  {
+    "id": "89",
+    "parent": "80",
+    "source": "Job Market",
+    "path": "Business and Finance > Economy > Job Market",
+    "zh": "就业市场"
+  },
+  {
+    "id": "90",
+    "parent": "52",
+    "source": "Industries",
+    "path": "Business and Finance > Industries",
+    "zh": "行业"
+  },
+  {
+    "id": "91",
+    "parent": "90",
+    "source": "Advertising Industry",
+    "path": "Business and Finance > Industries > Advertising Industry",
+    "zh": "广告业"
+  },
+  {
+    "id": "102",
+    "parent": "90",
+    "source": "Agriculture",
+    "path": "Business and Finance > Industries > Agriculture",
+    "zh": "农业"
+  },
+  {
+    "id": "113",
+    "parent": "90",
+    "source": "Apparel Industry",
+    "path": "Business and Finance > Industries > Apparel Industry",
+    "zh": "服装业"
+  },
+  {
+    "id": "117",
+    "parent": "90",
+    "source": "Automotive Industry",
+    "path": "Business and Finance > Industries > Automotive Industry",
+    "zh": "汽车工业"
+  },
+  {
+    "id": "118",
+    "parent": "90",
+    "source": "Aviation Industry",
+    "path": "Business and Finance > Industries > Aviation Industry",
+    "zh": "航空业"
+  },
+  {
+    "id": "119",
+    "parent": "90",
+    "source": "Biotech and Biomedical Industry",
+    "path": "Business and Finance > Industries > Biotech and Biomedical Industry",
+    "zh": "生物技术与生物医药产业"
+  },
+  {
+    "id": "120",
+    "parent": "90",
+    "source": "Civil Engineering Industry",
+    "path": "Business and Finance > Industries > Civil Engineering Industry",
+    "zh": "土木工程业"
+  },
+  {
+    "id": "121",
+    "parent": "90",
+    "source": "Construction Industry",
+    "path": "Business and Finance > Industries > Construction Industry",
+    "zh": "建筑业"
+  },
+  {
+    "id": "122",
+    "parent": "90",
+    "source": "Defense Industry",
+    "path": "Business and Finance > Industries > Defense Industry",
+    "zh": "国防工业"
+  },
+  {
+    "id": "92",
+    "parent": "90",
+    "source": "Education industry",
+    "path": "Business and Finance > Industries > Education industry",
+    "zh": "教育业"
+  },
+  {
+    "id": "93",
+    "parent": "90",
+    "source": "Entertainment Industry",
+    "path": "Business and Finance > Industries > Entertainment Industry",
+    "zh": "娱乐业"
+  },
+  {
+    "id": "94",
+    "parent": "90",
+    "source": "Environmental Services Industry",
+    "path": "Business and Finance > Industries > Environmental Services Industry",
+    "zh": "环保服务业"
+  },
+  {
+    "id": "95",
+    "parent": "90",
+    "source": "Financial Industry",
+    "path": "Business and Finance > Industries > Financial Industry",
+    "zh": "金融业"
+  },
+  {
+    "id": "96",
+    "parent": "90",
+    "source": "Food Industry",
+    "path": "Business and Finance > Industries > Food Industry",
+    "zh": "食品业"
+  },
+  {
+    "id": "97",
+    "parent": "90",
+    "source": "Healthcare Industry",
+    "path": "Business and Finance > Industries > Healthcare Industry",
+    "zh": "医疗保健业"
+  },
+  {
+    "id": "98",
+    "parent": "90",
+    "source": "Hospitality Industry",
+    "path": "Business and Finance > Industries > Hospitality Industry",
+    "zh": "酒店与餐饮业"
+  },
+  {
+    "id": "99",
+    "parent": "90",
+    "source": "Information Services Industry",
+    "path": "Business and Finance > Industries > Information Services Industry",
+    "zh": "信息服务行业"
+  },
+  {
+    "id": "100",
+    "parent": "90",
+    "source": "Legal Services Industry",
+    "path": "Business and Finance > Industries > Legal Services Industry",
+    "zh": "法律服务行业"
+  },
+  {
+    "id": "101",
+    "parent": "90",
+    "source": "Logistics and Transportation Industry",
+    "path": "Business and Finance > Industries > Logistics and Transportation Industry",
+    "zh": "物流与运输业"
+  },
+  {
+    "id": "103",
+    "parent": "90",
+    "source": "Management Consulting Industry",
+    "path": "Business and Finance > Industries > Management Consulting Industry",
+    "zh": "管理咨询行业"
+  },
+  {
+    "id": "104",
+    "parent": "90",
+    "source": "Manufacturing Industry",
+    "path": "Business and Finance > Industries > Manufacturing Industry",
+    "zh": "制造业"
+  },
+  {
+    "id": "105",
+    "parent": "90",
+    "source": "Mechanical and Industrial Engineering Industry",
+    "path": "Business and Finance > Industries > Mechanical and Industrial Engineering Industry",
+    "zh": "机械与工业工程行业"
+  },
+  {
+    "id": "106",
+    "parent": "90",
+    "source": "Media Industry",
+    "path": "Business and Finance > Industries > Media Industry",
+    "zh": "媒体行业"
+  },
+  {
+    "id": "107",
+    "parent": "90",
+    "source": "Metals Industry",
+    "path": "Business and Finance > Industries > Metals Industry",
+    "zh": "金属行业"
+  },
+  {
+    "id": "108",
+    "parent": "90",
+    "source": "Non-Profit Organizations",
+    "path": "Business and Finance > Industries > Non-Profit Organizations",
+    "zh": "非营利组织"
+  },
+  {
+    "id": "109",
+    "parent": "90",
+    "source": "Pharmaceutical Industry",
+    "path": "Business and Finance > Industries > Pharmaceutical Industry",
+    "zh": "制药行业"
+  },
+  {
+    "id": "110",
+    "parent": "90",
+    "source": "Power and Energy Industry",
+    "path": "Business and Finance > Industries > Power and Energy Industry",
+    "zh": "能源与电力行业"
+  },
+  {
+    "id": "111",
+    "parent": "90",
+    "source": "Publishing Industry",
+    "path": "Business and Finance > Industries > Publishing Industry",
+    "zh": "出版业"
+  },
+  {
+    "id": "112",
+    "parent": "90",
+    "source": "Real Estate Industry",
+    "path": "Business and Finance > Industries > Real Estate Industry",
+    "zh": "房地产行业"
+  },
+  {
+    "id": "114",
+    "parent": "90",
+    "source": "Retail Industry",
+    "path": "Business and Finance > Industries > Retail Industry",
+    "zh": "零售业"
+  },
+  {
+    "id": "115",
+    "parent": "90",
+    "source": "Technology Industry",
+    "path": "Business and Finance > Industries > Technology Industry",
+    "zh": "科技行业"
+  },
+  {
+    "id": "116",
+    "parent": "90",
+    "source": "Telecommunications Industry",
+    "path": "Business and Finance > Industries > Telecommunications Industry",
+    "zh": "电信行业"
+  },
+  {
+    "id": "123",
+    "parent": "",
+    "source": "Careers",
+    "path": "Careers",
+    "zh": "职业发展"
+  },
+  {
+    "id": "124",
+    "parent": "123",
+    "source": "Apprenticeships",
+    "path": "Careers > Apprenticeships",
+    "zh": "学徒制"
+  },
+  {
+    "id": "125",
+    "parent": "123",
+    "source": "Career Advice",
+    "path": "Careers > Career Advice",
+    "zh": "职业建议"
+  },
+  {
+    "id": "126",
+    "parent": "123",
+    "source": "Career Planning",
+    "path": "Careers > Career Planning",
+    "zh": "职业规划"
+  },
+  {
+    "id": "127",
+    "parent": "123",
+    "source": "Job Search",
+    "path": "Careers > Job Search",
+    "zh": "求职"
+  },
+  {
+    "id": "128",
+    "parent": "127",
+    "source": "Job Fairs",
+    "path": "Careers > Job Search > Job Fairs",
+    "zh": "招聘会"
+  },
+  {
+    "id": "129",
+    "parent": "127",
+    "source": "Resume Writing and Advice",
+    "path": "Careers > Job Search > Resume Writing and Advice",
+    "zh": "简历撰写与指导"
+  },
+  {
+    "id": "130",
+    "parent": "123",
+    "source": "Remote Working",
+    "path": "Careers > Remote Working",
+    "zh": "远程办公"
+  },
+  {
+    "id": "131",
+    "parent": "123",
+    "source": "Vocational Training",
+    "path": "Careers > Vocational Training",
+    "zh": "职业教育与培训"
+  },
+  {
+    "id": "80DV8O",
+    "parent": "",
+    "source": "Communication",
+    "path": "Communication",
+    "zh": "通信"
+  },
+  {
+    "id": "380",
+    "parent": "",
+    "source": "Crime",
+    "path": "Crime",
+    "zh": "犯罪"
+  },
+  {
+    "id": "381",
+    "parent": "",
+    "source": "Disasters",
+    "path": "Disasters",
+    "zh": "灾害"
+  },
+  {
+    "id": "132",
+    "parent": "",
+    "source": "Education",
+    "path": "Education",
+    "zh": "教育"
+  },
+  {
+    "id": "133",
+    "parent": "132",
+    "source": "Adult Education",
+    "path": "Education > Adult Education",
+    "zh": "成人教育"
+  },
+  {
+    "id": "137",
+    "parent": "132",
+    "source": "College Education",
+    "path": "Education > College Education",
+    "zh": "高等教育"
+  },
+  {
+    "id": "138",
+    "parent": "137",
+    "source": "College Planning",
+    "path": "Education > College Education > College Planning",
+    "zh": "升学规划"
+  },
+  {
+    "id": "139",
+    "parent": "137",
+    "source": "Postgraduate Education",
+    "path": "Education > College Education > Postgraduate Education",
+    "zh": "研究生教育"
+  },
+  {
+    "id": "140",
+    "parent": "139",
+    "source": "Professional School",
+    "path": "Education > College Education > Postgraduate Education > Professional School",
+    "zh": "专业学院"
+  },
+  {
+    "id": "141",
+    "parent": "137",
+    "source": "Undergraduate Education",
+    "path": "Education > College Education > Undergraduate Education",
+    "zh": "本科教育"
+  },
+  {
+    "id": "142",
+    "parent": "132",
+    "source": "Early Childhood Education",
+    "path": "Education > Early Childhood Education",
+    "zh": "学前教育"
+  },
+  {
+    "id": "143",
+    "parent": "132",
+    "source": "Educational Assessment",
+    "path": "Education > Educational Assessment",
+    "zh": "教育评估"
+  },
+  {
+    "id": "144",
+    "parent": "143",
+    "source": "Standardized Testing",
+    "path": "Education > Educational Assessment > Standardized Testing",
+    "zh": "标准化考试"
+  },
+  {
+    "id": "145",
+    "parent": "132",
+    "source": "Homeschooling",
+    "path": "Education > Homeschooling",
+    "zh": "家庭学校"
+  },
+  {
+    "id": "146",
+    "parent": "132",
+    "source": "Homework and Study",
+    "path": "Education > Homework and Study",
+    "zh": "作业与学习"
+  },
+  {
+    "id": "147",
+    "parent": "132",
+    "source": "Language Learning",
+    "path": "Education > Language Learning",
+    "zh": "语言学习"
+  },
+  {
+    "id": "148",
+    "parent": "132",
+    "source": "Online Education",
+    "path": "Education > Online Education",
+    "zh": "在线教育"
+  },
+  {
+    "id": "149",
+    "parent": "132",
+    "source": "Primary Education",
+    "path": "Education > Primary Education",
+    "zh": "初等教育"
+  },
+  {
+    "id": "134",
+    "parent": "132",
+    "source": "Private School",
+    "path": "Education > Private School",
+    "zh": "私立学校"
+  },
+  {
+    "id": "135",
+    "parent": "132",
+    "source": "Secondary Education",
+    "path": "Education > Secondary Education",
+    "zh": "中等教育"
+  },
+  {
+    "id": "136",
+    "parent": "132",
+    "source": "Special Education",
+    "path": "Education > Special Education",
+    "zh": "特殊教育"
+  },
+  {
+    "id": "JLBCU7",
+    "parent": "",
+    "source": "Entertainment",
+    "path": "Entertainment",
+    "zh": "娱乐"
+  },
+  {
+    "id": "324",
+    "parent": "JLBCU7",
+    "source": "Movies",
+    "path": "Entertainment > Movies",
+    "zh": "电影"
+  },
+  {
+    "id": "338",
+    "parent": "JLBCU7",
+    "source": "Music",
+    "path": "Entertainment > Music",
+    "zh": "音乐"
+  },
+  {
+    "id": "640",
+    "parent": "JLBCU7",
+    "source": "Television",
+    "path": "Entertainment > Television",
+    "zh": "电视"
+  },
+  {
+    "id": "8VZQHL",
+    "parent": "",
+    "source": "Events",
+    "path": "Events",
+    "zh": "活动"
+  },
+  {
+    "id": "162",
+    "parent": "8VZQHL",
+    "source": "Awards Shows",
+    "path": "Events > Awards Shows",
+    "zh": "颁奖典礼"
+  },
+  {
+    "id": "180",
+    "parent": "8VZQHL",
+    "source": "Business Expos & Conferences",
+    "path": "Events > Business Expos & Conferences",
+    "zh": "商业展会与会议"
+  },
+  {
+    "id": "185",
+    "parent": "8VZQHL",
+    "source": "Fan Conventions",
+    "path": "Events > Fan Conventions",
+    "zh": "粉丝大会"
+  },
+  {
+    "id": "186",
+    "parent": "",
+    "source": "Family and Relationships",
+    "path": "Family and Relationships",
+    "zh": "家庭与人际关系"
+  },
+  {
+    "id": "187",
+    "parent": "186",
+    "source": "Bereavement",
+    "path": "Family and Relationships > Bereavement",
+    "zh": "丧葬与哀悼"
+  },
+  {
+    "id": "188",
+    "parent": "186",
+    "source": "Dating",
+    "path": "Family and Relationships > Dating",
+    "zh": "婚恋交友"
+  },
+  {
+    "id": "189",
+    "parent": "186",
+    "source": "Divorce",
+    "path": "Family and Relationships > Divorce",
+    "zh": "离婚"
+  },
+  {
+    "id": "190",
+    "parent": "186",
+    "source": "Eldercare",
+    "path": "Family and Relationships > Eldercare",
+    "zh": "老年照护"
+  },
+  {
+    "id": "191",
+    "parent": "186",
+    "source": "Marriage and Civil Unions",
+    "path": "Family and Relationships > Marriage and Civil Unions",
+    "zh": "婚姻与民事结合"
+  },
+  {
+    "id": "192",
+    "parent": "186",
+    "source": "Parenting",
+    "path": "Family and Relationships > Parenting",
+    "zh": "育儿"
+  },
+  {
+    "id": "193",
+    "parent": "192",
+    "source": "Adoption and Fostering",
+    "path": "Family and Relationships > Parenting > Adoption and Fostering",
+    "zh": "收养与寄养"
+  },
+  {
+    "id": "194",
+    "parent": "192",
+    "source": "Daycare and Pre-School",
+    "path": "Family and Relationships > Parenting > Daycare and Pre-School",
+    "zh": "托育与学前教育"
+  },
+  {
+    "id": "195",
+    "parent": "192",
+    "source": "Internet Safety",
+    "path": "Family and Relationships > Parenting > Internet Safety",
+    "zh": "儿童网络保护"
+  },
+  {
+    "id": "196",
+    "parent": "192",
+    "source": "Parenting Babies and Toddlers",
+    "path": "Family and Relationships > Parenting > Parenting Babies and Toddlers",
+    "zh": "婴幼儿育儿"
+  },
+  {
+    "id": "197",
+    "parent": "192",
+    "source": "Parenting Children Aged 4-11",
+    "path": "Family and Relationships > Parenting > Parenting Children Aged 4-11",
+    "zh": "4–11岁儿童育儿"
+  },
+  {
+    "id": "198",
+    "parent": "192",
+    "source": "Parenting Teens",
+    "path": "Family and Relationships > Parenting > Parenting Teens",
+    "zh": "青少年育儿"
+  },
+  {
+    "id": "199",
+    "parent": "192",
+    "source": "Special Needs Kids",
+    "path": "Family and Relationships > Parenting > Special Needs Kids",
+    "zh": "特殊需求儿童"
+  },
+  {
+    "id": "200",
+    "parent": "186",
+    "source": "Single Life",
+    "path": "Family and Relationships > Single Life",
+    "zh": "单身生活"
+  },
+  {
+    "id": "201",
+    "parent": "",
+    "source": "Fine Art",
+    "path": "Fine Art",
+    "zh": "纯艺术"
+  },
+  {
+    "id": "202",
+    "parent": "201",
+    "source": "Costume",
+    "path": "Fine Art > Costume",
+    "zh": "服装设计"
+  },
+  {
+    "id": "203",
+    "parent": "201",
+    "source": "Dance",
+    "path": "Fine Art > Dance",
+    "zh": "舞蹈"
+  },
+  {
+    "id": "204",
+    "parent": "201",
+    "source": "Design",
+    "path": "Fine Art > Design",
+    "zh": "设计"
+  },
+  {
+    "id": "205",
+    "parent": "201",
+    "source": "Digital Arts",
+    "path": "Fine Art > Digital Arts",
+    "zh": "数字艺术"
+  },
+  {
+    "id": "206",
+    "parent": "201",
+    "source": "Fine Art Photography",
+    "path": "Fine Art > Fine Art Photography",
+    "zh": "艺术摄影"
+  },
+  {
+    "id": "207",
+    "parent": "201",
+    "source": "Modern Art",
+    "path": "Fine Art > Modern Art",
+    "zh": "现代艺术"
+  },
+  {
+    "id": "208",
+    "parent": "201",
+    "source": "Opera",
+    "path": "Fine Art > Opera",
+    "zh": "歌剧"
+  },
+  {
+    "id": "209",
+    "parent": "201",
+    "source": "Theater",
+    "path": "Fine Art > Theater",
+    "zh": "戏剧"
+  },
+  {
+    "id": "210",
+    "parent": "",
+    "source": "Food & Drink",
+    "path": "Food & Drink",
+    "zh": "美食与饮品"
+  },
+  {
+    "id": "211",
+    "parent": "210",
+    "source": "Alcoholic Beverages",
+    "path": "Food & Drink > Alcoholic Beverages",
+    "zh": "酒精饮料"
+  },
+  {
+    "id": "215",
+    "parent": "210",
+    "source": "Barbecues and Grilling",
+    "path": "Food & Drink > Barbecues and Grilling",
+    "zh": "烧烤"
+  },
+  {
+    "id": "216",
+    "parent": "210",
+    "source": "Cooking",
+    "path": "Food & Drink > Cooking",
+    "zh": "烹饪"
+  },
+  {
+    "id": "217",
+    "parent": "210",
+    "source": "Desserts and Baking",
+    "path": "Food & Drink > Desserts and Baking",
+    "zh": "甜点与烘焙"
+  },
+  {
+    "id": "218",
+    "parent": "210",
+    "source": "Dining Out",
+    "path": "Food & Drink > Dining Out",
+    "zh": "外出就餐"
+  },
+  {
+    "id": "219",
+    "parent": "210",
+    "source": "Food Allergies",
+    "path": "Food & Drink > Food Allergies",
+    "zh": "食物过敏"
+  },
+  {
+    "id": "220",
+    "parent": "210",
+    "source": "Food Movements",
+    "path": "Food & Drink > Food Movements",
+    "zh": "饮食潮流"
+  },
+  {
+    "id": "221",
+    "parent": "210",
+    "source": "Healthy Cooking and Eating",
+    "path": "Food & Drink > Healthy Cooking and Eating",
+    "zh": "健康烹饪与饮食"
+  },
+  {
+    "id": "222",
+    "parent": "210",
+    "source": "Non-Alcoholic Beverages",
+    "path": "Food & Drink > Non-Alcoholic Beverages",
+    "zh": "无酒精饮料"
+  },
+  {
+    "id": "212",
+    "parent": "210",
+    "source": "Vegan Diets",
+    "path": "Food & Drink > Vegan Diets",
+    "zh": "纯素食饮食"
+  },
+  {
+    "id": "213",
+    "parent": "210",
+    "source": "Vegetarian Diets",
+    "path": "Food & Drink > Vegetarian Diets",
+    "zh": "素食饮食"
+  },
+  {
+    "id": "214",
+    "parent": "210",
+    "source": "World Cuisines",
+    "path": "Food & Drink > World Cuisines",
+    "zh": "世界菜系"
+  },
+  {
+    "id": "SPSHQ5",
+    "parent": "",
+    "source": "Genres",
+    "path": "Genres",
+    "zh": "类型"
+  },
+  {
+    "id": "VKIV56",
+    "parent": "SPSHQ5",
+    "source": "Nature",
+    "path": "Genres > Nature",
+    "zh": "自然"
+  },
+  {
+    "id": "325",
+    "parent": "SPSHQ5",
+    "source": "Action/Adventure",
+    "path": "Genres > Action/Adventure",
+    "zh": "动作/冒险"
+  },
+  {
+    "id": "641",
+    "parent": "SPSHQ5",
+    "source": "Animation & Anime",
+    "path": "Genres > Animation & Anime",
+    "zh": "动画与动漫"
+  },
+  {
+    "id": "44",
+    "parent": "SPSHQ5",
+    "source": "Biographies",
+    "path": "Genres > Biographies",
+    "zh": "人物传记"
+  },
+  {
+    "id": "646",
+    "parent": "SPSHQ5",
+    "source": "Comedy",
+    "path": "Genres > Comedy",
+    "zh": "喜剧"
+  },
+  {
+    "id": "332",
+    "parent": "SPSHQ5",
+    "source": "Documentary",
+    "path": "Genres > Documentary",
+    "zh": "纪录片"
+  },
+  {
+    "id": "647",
+    "parent": "SPSHQ5",
+    "source": "Drama",
+    "path": "Genres > Drama",
+    "zh": "剧情"
+  },
+  {
+    "id": "648",
+    "parent": "SPSHQ5",
+    "source": "Factual",
+    "path": "Genres > Factual",
+    "zh": "纪实类"
+  },
+  {
+    "id": "645",
+    "parent": "SPSHQ5",
+    "source": "Family/Children",
+    "path": "Genres > Family/Children",
+    "zh": "家庭/儿童"
+  },
+  {
+    "id": "335",
+    "parent": "SPSHQ5",
+    "source": "Fantasy",
+    "path": "Genres > Fantasy",
+    "zh": "奇幻"
+  },
+  {
+    "id": "EZWB7V",
+    "parent": "SPSHQ5",
+    "source": "History",
+    "path": "Genres > History",
+    "zh": "历史"
+  },
+  {
+    "id": "649",
+    "parent": "SPSHQ5",
+    "source": "Holiday",
+    "path": "Genres > Holiday",
+    "zh": "节日"
+  },
+  {
+    "id": "336",
+    "parent": "SPSHQ5",
+    "source": "Horror",
+    "path": "Genres > Horror",
+    "zh": "恐怖"
+  },
+  {
+    "id": "TIFQA5",
+    "parent": "SPSHQ5",
+    "source": "Lifestyle",
+    "path": "Genres > Lifestyle",
+    "zh": "生活方式"
+  },
+  {
+    "id": "650",
+    "parent": "SPSHQ5",
+    "source": "Music Video",
+    "path": "Genres > Music Video",
+    "zh": "音乐视频"
+  },
+  {
+    "id": "156",
+    "parent": "SPSHQ5",
+    "source": "Musical",
+    "path": "Genres > Musical",
+    "zh": "音乐剧"
+  },
+  {
+    "id": "331",
+    "parent": "SPSHQ5",
+    "source": "Mystery",
+    "path": "Genres > Mystery",
+    "zh": "悬疑"
+  },
+  {
+    "id": "651",
+    "parent": "SPSHQ5",
+    "source": "Reality TV",
+    "path": "Genres > Reality TV",
+    "zh": "真人秀"
+  },
+  {
+    "id": "326",
+    "parent": "SPSHQ5",
+    "source": "Romance",
+    "path": "Genres > Romance",
+    "zh": "爱情"
+  },
+  {
+    "id": "652",
+    "parent": "SPSHQ5",
+    "source": "Science Fiction",
+    "path": "Genres > Science Fiction",
+    "zh": "科幻"
+  },
+  {
+    "id": "642",
+    "parent": "SPSHQ5",
+    "source": "Soap Opera",
+    "path": "Genres > Soap Opera",
+    "zh": "肥皂剧"
+  },
+  {
+    "id": "643",
+    "parent": "SPSHQ5",
+    "source": "Special Interest (Indie/Art House)",
+    "path": "Genres > Special Interest (Indie/Art House)",
+    "zh": "小众题材（独立电影/艺术电影）"
+  },
+  {
+    "id": "370",
+    "parent": "SPSHQ5",
+    "source": "Sports Radio",
+    "path": "Genres > Sports Radio",
+    "zh": "体育广播"
+  },
+  {
+    "id": "371",
+    "parent": "SPSHQ5",
+    "source": "Talk Radio",
+    "path": "Genres > Talk Radio",
+    "zh": "脱口秀广播"
+  },
+  {
+    "id": "376",
+    "parent": "SPSHQ5",
+    "source": "Public Radio",
+    "path": "Genres > Talk Radio > Public Radio",
+    "zh": "公共广播"
+  },
+  {
+    "id": "A0AH3G",
+    "parent": "SPSHQ5",
+    "source": "Talk Show",
+    "path": "Genres > Talk Show",
+    "zh": "脱口秀"
+  },
+  {
+    "id": "KHPC5A",
+    "parent": "SPSHQ5",
+    "source": "True Crime",
+    "path": "Genres > True Crime",
+    "zh": "真实犯罪"
+  },
+  {
+    "id": "KHPC6A",
+    "parent": "SPSHQ5",
+    "source": "Western",
+    "path": "Genres > Western",
+    "zh": "西部片"
+  },
+  {
+    "id": "51",
+    "parent": "SPSHQ5",
+    "source": "Young Adult",
+    "path": "Genres > Young Adult",
+    "zh": "青少年文学"
+  },
+  {
+    "id": "700",
+    "parent": "SPSHQ5",
+    "source": "Thriller",
+    "path": "Genres > Thriller",
+    "zh": "惊悚"
+  },
+  {
+    "id": "223",
+    "parent": "",
+    "source": "Healthy Living",
+    "path": "Healthy Living",
+    "zh": "健康生活"
+  },
+  {
+    "id": "224",
+    "parent": "223",
+    "source": "Children's Health",
+    "path": "Healthy Living > Children's Health",
+    "zh": "儿童健康"
+  },
+  {
+    "id": "225",
+    "parent": "223",
+    "source": "Fitness and Exercise",
+    "path": "Healthy Living > Fitness and Exercise",
+    "zh": "健身与运动"
+  },
+  {
+    "id": "226",
+    "parent": "225",
+    "source": "Participant Sports",
+    "path": "Healthy Living > Fitness and Exercise > Participant Sports",
+    "zh": "参与型运动"
+  },
+  {
+    "id": "227",
+    "parent": "225",
+    "source": "Running and Jogging",
+    "path": "Healthy Living > Fitness and Exercise > Running and Jogging",
+    "zh": "跑步与慢跑"
+  },
+  {
+    "id": "228",
+    "parent": "223",
+    "source": "Men's Health",
+    "path": "Healthy Living > Men's Health",
+    "zh": "男性健康"
+  },
+  {
+    "id": "229",
+    "parent": "223",
+    "source": "Nutrition",
+    "path": "Healthy Living > Nutrition",
+    "zh": "营养"
+  },
+  {
+    "id": "230",
+    "parent": "223",
+    "source": "Senior Health",
+    "path": "Healthy Living > Senior Health",
+    "zh": "老年健康"
+  },
+  {
+    "id": "231",
+    "parent": "223",
+    "source": "Weight Loss",
+    "path": "Healthy Living > Weight Loss",
+    "zh": "减肥"
+  },
+  {
+    "id": "232",
+    "parent": "223",
+    "source": "Wellness",
+    "path": "Healthy Living > Wellness",
+    "zh": "健康养生"
+  },
+  {
+    "id": "233",
+    "parent": "232",
+    "source": "Alternative Medicine",
+    "path": "Healthy Living > Wellness > Alternative Medicine",
+    "zh": "替代医学"
+  },
+  {
+    "id": "234",
+    "parent": "233",
+    "source": "Herbs and Supplements",
+    "path": "Healthy Living > Wellness > Alternative Medicine > Herbs and Supplements",
+    "zh": "草药与膳食补充剂"
+  },
+  {
+    "id": "235",
+    "parent": "233",
+    "source": "Holistic Health",
+    "path": "Healthy Living > Wellness > Alternative Medicine > Holistic Health",
+    "zh": "整体健康"
+  },
+  {
+    "id": "236",
+    "parent": "232",
+    "source": "Physical Therapy",
+    "path": "Healthy Living > Wellness > Physical Therapy",
+    "zh": "物理治疗"
+  },
+  {
+    "id": "237",
+    "parent": "232",
+    "source": "Smoking Cessation",
+    "path": "Healthy Living > Wellness > Smoking Cessation",
+    "zh": "戒烟"
+  },
+  {
+    "id": "238",
+    "parent": "223",
+    "source": "Women's Health",
+    "path": "Healthy Living > Women's Health",
+    "zh": "女性健康"
+  },
+  {
+    "id": "239",
+    "parent": "",
+    "source": "Hobbies & Interests",
+    "path": "Hobbies & Interests",
+    "zh": "兴趣爱好"
+  },
+  {
+    "id": "240",
+    "parent": "239",
+    "source": "Antiquing and Antiques",
+    "path": "Hobbies & Interests > Antiquing and Antiques",
+    "zh": "古董收藏与鉴赏"
+  },
+  {
+    "id": "248",
+    "parent": "239",
+    "source": "Arts and Crafts",
+    "path": "Hobbies & Interests > Arts and Crafts",
+    "zh": "手工与艺术创作"
+  },
+  {
+    "id": "249",
+    "parent": "248",
+    "source": "Beadwork",
+    "path": "Hobbies & Interests > Arts and Crafts > Beadwork",
+    "zh": "串珠工艺"
+  },
+  {
+    "id": "250",
+    "parent": "248",
+    "source": "Candle and Soap Making",
+    "path": "Hobbies & Interests > Arts and Crafts > Candle and Soap Making",
+    "zh": "香薰蜡烛与手工皂制作"
+  },
+  {
+    "id": "251",
+    "parent": "248",
+    "source": "Drawing and Sketching",
+    "path": "Hobbies & Interests > Arts and Crafts > Drawing and Sketching",
+    "zh": "素描与绘画基础"
+  },
+  {
+    "id": "252",
+    "parent": "248",
+    "source": "Jewelry Making",
+    "path": "Hobbies & Interests > Arts and Crafts > Jewelry Making",
+    "zh": "珠宝制作"
+  },
+  {
+    "id": "253",
+    "parent": "248",
+    "source": "Needlework",
+    "path": "Hobbies & Interests > Arts and Crafts > Needlework",
+    "zh": "针线工艺"
+  },
+  {
+    "id": "254",
+    "parent": "248",
+    "source": "Painting",
+    "path": "Hobbies & Interests > Arts and Crafts > Painting",
+    "zh": "绘画"
+  },
+  {
+    "id": "255",
+    "parent": "248",
+    "source": "Photography",
+    "path": "Hobbies & Interests > Arts and Crafts > Photography",
+    "zh": "摄影"
+  },
+  {
+    "id": "256",
+    "parent": "248",
+    "source": "Scrapbooking",
+    "path": "Hobbies & Interests > Arts and Crafts > Scrapbooking",
+    "zh": "剪贴簿制作"
+  },
+  {
+    "id": "257",
+    "parent": "248",
+    "source": "Woodworking",
+    "path": "Hobbies & Interests > Arts and Crafts > Woodworking",
+    "zh": "木工制作"
+  },
+  {
+    "id": "258",
+    "parent": "239",
+    "source": "Beekeeping",
+    "path": "Hobbies & Interests > Beekeeping",
+    "zh": "养蜂"
+  },
+  {
+    "id": "259",
+    "parent": "239",
+    "source": "Birdwatching",
+    "path": "Hobbies & Interests > Birdwatching",
+    "zh": "观鸟"
+  },
+  {
+    "id": "260",
+    "parent": "239",
+    "source": "Cigars",
+    "path": "Hobbies & Interests > Cigars",
+    "zh": "雪茄"
+  },
+  {
+    "id": "261",
+    "parent": "239",
+    "source": "Collecting",
+    "path": "Hobbies & Interests > Collecting",
+    "zh": "收藏"
+  },
+  {
+    "id": "262",
+    "parent": "261",
+    "source": "Comic Books",
+    "path": "Hobbies & Interests > Collecting > Comic Books",
+    "zh": "漫画书收藏"
+  },
+  {
+    "id": "263",
+    "parent": "261",
+    "source": "Stamps and Coins",
+    "path": "Hobbies & Interests > Collecting > Stamps and Coins",
+    "zh": "邮票与钱币收藏"
+  },
+  {
+    "id": "264",
+    "parent": "239",
+    "source": "Content Production",
+    "path": "Hobbies & Interests > Content Production",
+    "zh": "内容创作"
+  },
+  {
+    "id": "265",
+    "parent": "264",
+    "source": "Audio Production",
+    "path": "Hobbies & Interests > Content Production > Audio Production",
+    "zh": "音频制作"
+  },
+  {
+    "id": "266",
+    "parent": "264",
+    "source": "Freelance Writing",
+    "path": "Hobbies & Interests > Content Production > Freelance Writing",
+    "zh": "自由撰稿"
+  },
+  {
+    "id": "267",
+    "parent": "264",
+    "source": "Screenwriting",
+    "path": "Hobbies & Interests > Content Production > Screenwriting",
+    "zh": "剧本创作"
+  },
+  {
+    "id": "268",
+    "parent": "264",
+    "source": "Video Production",
+    "path": "Hobbies & Interests > Content Production > Video Production",
+    "zh": "视频制作"
+  },
+  {
+    "id": "269",
+    "parent": "239",
+    "source": "Games and Puzzles",
+    "path": "Hobbies & Interests > Games and Puzzles",
+    "zh": "游戏与益智谜题"
+  },
+  {
+    "id": "270",
+    "parent": "269",
+    "source": "Board Games and Puzzles",
+    "path": "Hobbies & Interests > Games and Puzzles > Board Games and Puzzles",
+    "zh": "桌游与益智谜题"
+  },
+  {
+    "id": "271",
+    "parent": "269",
+    "source": "Card Games",
+    "path": "Hobbies & Interests > Games and Puzzles > Card Games",
+    "zh": "纸牌游戏"
+  },
+  {
+    "id": "272",
+    "parent": "269",
+    "source": "Roleplaying Games",
+    "path": "Hobbies & Interests > Games and Puzzles > Roleplaying Games",
+    "zh": "角色扮演游戏"
+  },
+  {
+    "id": "273",
+    "parent": "239",
+    "source": "Genealogy and Ancestry",
+    "path": "Hobbies & Interests > Genealogy and Ancestry",
+    "zh": "家谱与寻根"
+  },
+  {
+    "id": "241",
+    "parent": "239",
+    "source": "Magic and Illusion",
+    "path": "Hobbies & Interests > Magic and Illusion",
+    "zh": "魔术与幻术"
+  },
+  {
+    "id": "242",
+    "parent": "239",
+    "source": "Model Toys",
+    "path": "Hobbies & Interests > Model Toys",
+    "zh": "模型玩具"
+  },
+  {
+    "id": "243",
+    "parent": "239",
+    "source": "Musical Instruments",
+    "path": "Hobbies & Interests > Musical Instruments",
+    "zh": "乐器"
+  },
+  {
+    "id": "244",
+    "parent": "239",
+    "source": "Paranormal Phenomena",
+    "path": "Hobbies & Interests > Paranormal Phenomena",
+    "zh": "超自然现象"
+  },
+  {
+    "id": "245",
+    "parent": "239",
+    "source": "Radio Control",
+    "path": "Hobbies & Interests > Radio Control",
+    "zh": "遥控模型"
+  },
+  {
+    "id": "246",
+    "parent": "239",
+    "source": "Sci-fi and Fantasy",
+    "path": "Hobbies & Interests > Sci-fi and Fantasy",
+    "zh": "科幻与奇幻"
+  },
+  {
+    "id": "247",
+    "parent": "239",
+    "source": "Workshops and Classes",
+    "path": "Hobbies & Interests > Workshops and Classes",
+    "zh": "工作坊与课程"
+  },
+  {
+    "id": "1KXCLD",
+    "parent": "",
+    "source": "Holidays",
+    "path": "Holidays",
+    "zh": "节日"
+  },
+  {
+    "id": "157",
+    "parent": "1KXCLD",
+    "source": "National & Civic Holidays",
+    "path": "Holidays > National & Civic Holidays",
+    "zh": "国家与公共节日"
+  },
+  {
+    "id": "274",
+    "parent": "",
+    "source": "Home & Garden",
+    "path": "Home & Garden",
+    "zh": "家居与园艺"
+  },
+  {
+    "id": "275",
+    "parent": "274",
+    "source": "Gardening",
+    "path": "Home & Garden > Gardening",
+    "zh": "园艺"
+  },
+  {
+    "id": "278",
+    "parent": "274",
+    "source": "Home Appliances",
+    "path": "Home & Garden > Home Appliances",
+    "zh": "家用电器"
+  },
+  {
+    "id": "279",
+    "parent": "274",
+    "source": "Home Entertaining",
+    "path": "Home & Garden > Home Entertaining",
+    "zh": "家庭娱乐"
+  },
+  {
+    "id": "280",
+    "parent": "274",
+    "source": "Home Improvement",
+    "path": "Home & Garden > Home Improvement",
+    "zh": "家居装修"
+  },
+  {
+    "id": "281",
+    "parent": "274",
+    "source": "Home Security",
+    "path": "Home & Garden > Home Security",
+    "zh": "家庭安防"
+  },
+  {
+    "id": "282",
+    "parent": "274",
+    "source": "Indoor Environmental Quality",
+    "path": "Home & Garden > Indoor Environmental Quality",
+    "zh": "室内环境质量"
+  },
+  {
+    "id": "283",
+    "parent": "274",
+    "source": "Interior Decorating",
+    "path": "Home & Garden > Interior Decorating",
+    "zh": "室内装饰"
+  },
+  {
+    "id": "284",
+    "parent": "274",
+    "source": "Landscaping",
+    "path": "Home & Garden > Landscaping",
+    "zh": "景观设计"
+  },
+  {
+    "id": "285",
+    "parent": "274",
+    "source": "Outdoor Decorating",
+    "path": "Home & Garden > Outdoor Decorating",
+    "zh": "户外装饰"
+  },
+  {
+    "id": "276",
+    "parent": "274",
+    "source": "Remodeling & Construction",
+    "path": "Home & Garden > Remodeling & Construction",
+    "zh": "翻新与施工"
+  },
+  {
+    "id": "277",
+    "parent": "274",
+    "source": "Smart Home",
+    "path": "Home & Garden > Smart Home",
+    "zh": "智能家居"
+  },
+  {
+    "id": "383",
+    "parent": "",
+    "source": "Law",
+    "path": "Law",
+    "zh": "法律"
+  },
+  {
+    "id": "286",
+    "parent": "",
+    "source": "Medical Health",
+    "path": "Medical Health",
+    "zh": "医疗健康"
+  },
+  {
+    "id": "323",
+    "parent": "286",
+    "source": "Cosmetic Medical Services",
+    "path": "Medical Health > Cosmetic Medical Services",
+    "zh": "医美服务"
+  },
+  {
+    "id": "287",
+    "parent": "286",
+    "source": "Diseases and Conditions",
+    "path": "Medical Health > Diseases and Conditions",
+    "zh": "疾病与病症"
+  },
+  {
+    "id": "288",
+    "parent": "287",
+    "source": "Allergies",
+    "path": "Medical Health > Diseases and Conditions > Allergies",
+    "zh": "过敏"
+  },
+  {
+    "id": "306",
+    "parent": "287",
+    "source": "Blood Disorders",
+    "path": "Medical Health > Diseases and Conditions > Blood Disorders",
+    "zh": "血液疾病"
+  },
+  {
+    "id": "312",
+    "parent": "287",
+    "source": "Bone and Joint Conditions",
+    "path": "Medical Health > Diseases and Conditions > Bone and Joint Conditions",
+    "zh": "骨骼与关节疾病"
+  },
+  {
+    "id": "313",
+    "parent": "287",
+    "source": "Brain and Nervous System Disorders",
+    "path": "Medical Health > Diseases and Conditions > Brain and Nervous System Disorders",
+    "zh": "脑与神经系统疾病"
+  },
+  {
+    "id": "314",
+    "parent": "287",
+    "source": "Cancer",
+    "path": "Medical Health > Diseases and Conditions > Cancer",
+    "zh": "癌症"
+  },
+  {
+    "id": "315",
+    "parent": "287",
+    "source": "Cold and Flu",
+    "path": "Medical Health > Diseases and Conditions > Cold and Flu",
+    "zh": "感冒与流感"
+  },
+  {
+    "id": "316",
+    "parent": "287",
+    "source": "Dental Health",
+    "path": "Medical Health > Diseases and Conditions > Dental Health",
+    "zh": "口腔健康"
+  },
+  {
+    "id": "317",
+    "parent": "287",
+    "source": "Diabetes",
+    "path": "Medical Health > Diseases and Conditions > Diabetes",
+    "zh": "糖尿病"
+  },
+  {
+    "id": "318",
+    "parent": "287",
+    "source": "Digestive Disorders",
+    "path": "Medical Health > Diseases and Conditions > Digestive Disorders",
+    "zh": "消化系统疾病"
+  },
+  {
+    "id": "289",
+    "parent": "287",
+    "source": "Ear, Nose and Throat Conditions",
+    "path": "Medical Health > Diseases and Conditions > Ear, Nose and Throat Conditions",
+    "zh": "耳鼻喉疾病"
+  },
+  {
+    "id": "290",
+    "parent": "287",
+    "source": "Endocrine and Metabolic Diseases",
+    "path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases",
+    "zh": "内分泌与代谢性疾病"
+  },
+  {
+    "id": "291",
+    "parent": "290",
+    "source": "Hormonal Disorders",
+    "path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Hormonal Disorders",
+    "zh": "内分泌失调"
+  },
+  {
+    "id": "292",
+    "parent": "290",
+    "source": "Menopause",
+    "path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Menopause",
+    "zh": "更年期"
+  },
+  {
+    "id": "293",
+    "parent": "290",
+    "source": "Thyroid Disorders",
+    "path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Thyroid Disorders",
+    "zh": "甲状腺疾病"
+  },
+  {
+    "id": "294",
+    "parent": "287",
+    "source": "Eye and Vision Conditions",
+    "path": "Medical Health > Diseases and Conditions > Eye and Vision Conditions",
+    "zh": "眼与视力疾病"
+  },
+  {
+    "id": "295",
+    "parent": "287",
+    "source": "Foot Health",
+    "path": "Medical Health > Diseases and Conditions > Foot Health",
+    "zh": "足部健康"
+  },
+  {
+    "id": "296",
+    "parent": "287",
+    "source": "Heart and Cardiovascular Diseases",
+    "path": "Medical Health > Diseases and Conditions > Heart and Cardiovascular Diseases",
+    "zh": "心脑血管疾病"
+  },
+  {
+    "id": "297",
+    "parent": "287",
+    "source": "Infectious Diseases",
+    "path": "Medical Health > Diseases and Conditions > Infectious Diseases",
+    "zh": "传染性疾病"
+  },
+  {
+    "id": "298",
+    "parent": "287",
+    "source": "Injuries",
+    "path": "Medical Health > Diseases and Conditions > Injuries",
+    "zh": "外伤"
+  },
+  {
+    "id": "299",
+    "parent": "298",
+    "source": "First Aid",
+    "path": "Medical Health > Diseases and Conditions > Injuries > First Aid",
+    "zh": "急救"
+  },
+  {
+    "id": "300",
+    "parent": "287",
+    "source": "Lung and Respiratory Health",
+    "path": "Medical Health > Diseases and Conditions > Lung and Respiratory Health",
+    "zh": "肺与呼吸系统健康"
+  },
+  {
+    "id": "301",
+    "parent": "287",
+    "source": "Mental Health",
+    "path": "Medical Health > Diseases and Conditions > Mental Health",
+    "zh": "心理健康"
+  },
+  {
+    "id": "302",
+    "parent": "287",
+    "source": "Reproductive Health",
+    "path": "Medical Health > Diseases and Conditions > Reproductive Health",
+    "zh": "生殖健康"
+  },
+  {
+    "id": "303",
+    "parent": "302",
+    "source": "Birth Control",
+    "path": "Medical Health > Diseases and Conditions > Reproductive Health > Birth Control",
+    "zh": "避孕"
+  },
+  {
+    "id": "304",
+    "parent": "302",
+    "source": "Infertility",
+    "path": "Medical Health > Diseases and Conditions > Reproductive Health > Infertility",
+    "zh": "不孕不育"
+  },
+  {
+    "id": "305",
+    "parent": "302",
+    "source": "Pregnancy",
+    "path": "Medical Health > Diseases and Conditions > Reproductive Health > Pregnancy",
+    "zh": "孕期"
+  },
+  {
+    "id": "307",
+    "parent": "287",
+    "source": "Sexual Health",
+    "path": "Medical Health > Diseases and Conditions > Sexual Health",
+    "zh": "性健康"
+  },
+  {
+    "id": "308",
+    "parent": "307",
+    "source": "Sexual Conditions",
+    "path": "Medical Health > Diseases and Conditions > Sexual Health > Sexual Conditions",
+    "zh": "性功能障碍"
+  },
+  {
+    "id": "309",
+    "parent": "287",
+    "source": "Skin and Dermatology",
+    "path": "Medical Health > Diseases and Conditions > Skin and Dermatology",
+    "zh": "皮肤与皮肤病"
+  },
+  {
+    "id": "310",
+    "parent": "287",
+    "source": "Sleep Disorders",
+    "path": "Medical Health > Diseases and Conditions > Sleep Disorders",
+    "zh": "睡眠障碍"
+  },
+  {
+    "id": "311",
+    "parent": "287",
+    "source": "Substance Abuse",
+    "path": "Medical Health > Diseases and Conditions > Substance Abuse",
+    "zh": "药物滥用"
+  },
+  {
+    "id": "319",
+    "parent": "286",
+    "source": "Medical Tests",
+    "path": "Medical Health > Medical Tests",
+    "zh": "医学检查"
+  },
+  {
+    "id": "320",
+    "parent": "286",
+    "source": "Pharmaceutical Drugs",
+    "path": "Medical Health > Pharmaceutical Drugs",
+    "zh": "药品"
+  },
+  {
+    "id": "321",
+    "parent": "286",
+    "source": "Surgery",
+    "path": "Medical Health > Surgery",
+    "zh": "外科手术"
+  },
+  {
+    "id": "322",
+    "parent": "286",
+    "source": "Vaccines",
+    "path": "Medical Health > Vaccines",
+    "zh": "疫苗"
+  },
+  {
+    "id": "342",
+    "parent": "338",
+    "source": "Adult Album Alternative",
+    "path": "Entertainment > Music > Adult Album Alternative",
+    "zh": "成人专辑另类音乐"
+  },
+  {
+    "id": "339",
+    "parent": "338",
+    "source": "Adult Contemporary Music",
+    "path": "Entertainment > Music > Adult Contemporary Music",
+    "zh": "成人当代音乐"
+  },
+  {
+    "id": "340",
+    "parent": "339",
+    "source": "Soft AC Music",
+    "path": "Entertainment > Music > Adult Contemporary Music > Soft AC Music",
+    "zh": "轻柔成人当代音乐"
+  },
+  {
+    "id": "341",
+    "parent": "339",
+    "source": "Urban AC Music",
+    "path": "Entertainment > Music > Adult Contemporary Music > Urban AC Music",
+    "zh": "都市成人当代音乐"
+  },
+  {
+    "id": "343",
+    "parent": "338",
+    "source": "Alternative Music",
+    "path": "Entertainment > Music > Alternative Music",
+    "zh": "另类音乐"
+  },
+  {
+    "id": "360",
+    "parent": "338",
+    "source": "Blues",
+    "path": "Entertainment > Music > Blues",
+    "zh": "蓝调音乐"
+  },
+  {
+    "id": "344",
+    "parent": "338",
+    "source": "Children's Music",
+    "path": "Entertainment > Music > Children's Music",
+    "zh": "儿童音乐"
+  },
+  {
+    "id": "345",
+    "parent": "338",
+    "source": "Classic Hits",
+    "path": "Entertainment > Music > Classic Hits",
+    "zh": "经典热门歌曲"
+  },
+  {
+    "id": "346",
+    "parent": "338",
+    "source": "Classical Music",
+    "path": "Entertainment > Music > Classical Music",
+    "zh": "古典音乐"
+  },
+  {
+    "id": "347",
+    "parent": "338",
+    "source": "College Radio",
+    "path": "Entertainment > Music > College Radio",
+    "zh": "大学广播"
+  },
+  {
+    "id": "348",
+    "parent": "338",
+    "source": "Comedy (Music and Audio)",
+    "path": "Entertainment > Music > Comedy (Music and Audio)",
+    "zh": "喜剧（音乐与音频）"
+  },
+  {
+    "id": "349",
+    "parent": "338",
+    "source": "Contemporary Hits/Pop/Top 40",
+    "path": "Entertainment > Music > Contemporary Hits/Pop/Top 40",
+    "zh": "当代热门歌曲／流行音乐／排行榜前40"
+  },
+  {
+    "id": "350",
+    "parent": "338",
+    "source": "Country Music",
+    "path": "Entertainment > Music > Country Music",
+    "zh": "乡村音乐"
+  },
+  {
+    "id": "351",
+    "parent": "338",
+    "source": "Dance and Electronic Music",
+    "path": "Entertainment > Music > Dance and Electronic Music",
+    "zh": "舞曲与电子音乐"
+  },
+  {
+    "id": "354",
+    "parent": "338",
+    "source": "Gospel Music",
+    "path": "Entertainment > Music > Gospel Music",
+    "zh": "福音音乐"
+  },
+  {
+    "id": "355",
+    "parent": "338",
+    "source": "Hip Hop Music",
+    "path": "Entertainment > Music > Hip Hop Music",
+    "zh": "嘻哈音乐"
+  },
+  {
+    "id": "356",
+    "parent": "338",
+    "source": "Inspirational/New Age Music",
+    "path": "Entertainment > Music > Inspirational/New Age Music",
+    "zh": "励志／新世纪音乐"
+  },
+  {
+    "id": "357",
+    "parent": "338",
+    "source": "Jazz",
+    "path": "Entertainment > Music > Jazz",
+    "zh": "爵士乐"
+  },
+  {
+    "id": "358",
+    "parent": "338",
+    "source": "Oldies/Adult Standards",
+    "path": "Entertainment > Music > Oldies/Adult Standards",
+    "zh": "老歌／成人标准曲"
+  },
+  {
+    "id": "362",
+    "parent": "338",
+    "source": "R&B/Soul/Funk",
+    "path": "Entertainment > Music > R&B/Soul/Funk",
+    "zh": "节奏布鲁斯／灵魂乐／放克"
+  },
+  {
+    "id": "359",
+    "parent": "338",
+    "source": "Reggae",
+    "path": "Entertainment > Music > Reggae",
+    "zh": "雷鬼音乐"
+  },
+  {
+    "id": "361",
+    "parent": "338",
+    "source": "Religious (Music and Audio)",
+    "path": "Entertainment > Music > Religious (Music and Audio)",
+    "zh": "宗教（音乐与音频）"
+  },
+  {
+    "id": "363",
+    "parent": "338",
+    "source": "Rock Music",
+    "path": "Entertainment > Music > Rock Music",
+    "zh": "摇滚音乐"
+  },
+  {
+    "id": "364",
+    "parent": "363",
+    "source": "Album-oriented Rock",
+    "path": "Entertainment > Music > Rock Music > Album-oriented Rock",
+    "zh": "专辑导向摇滚"
+  },
+  {
+    "id": "365",
+    "parent": "363",
+    "source": "Alternative Rock",
+    "path": "Entertainment > Music > Rock Music > Alternative Rock",
+    "zh": "另类摇滚"
+  },
+  {
+    "id": "366",
+    "parent": "363",
+    "source": "Classic Rock",
+    "path": "Entertainment > Music > Rock Music > Classic Rock",
+    "zh": "经典摇滚"
+  },
+  {
+    "id": "367",
+    "parent": "363",
+    "source": "Hard Rock",
+    "path": "Entertainment > Music > Rock Music > Hard Rock",
+    "zh": "硬摇滚"
+  },
+  {
+    "id": "368",
+    "parent": "363",
+    "source": "Soft Rock",
+    "path": "Entertainment > Music > Rock Music > Soft Rock",
+    "zh": "软摇滚"
+  },
+  {
+    "id": "353",
+    "parent": "338",
+    "source": "Songwriters/Folk",
+    "path": "Entertainment > Music > Songwriters/Folk",
+    "zh": "唱作人与民谣"
+  },
+  {
+    "id": "369",
+    "parent": "338",
+    "source": "Soundtracks, TV and Showtunes",
+    "path": "Entertainment > Music > Soundtracks, TV and Showtunes",
+    "zh": "影视原声与音乐剧曲目"
+  },
+  {
+    "id": "352",
+    "parent": "338",
+    "source": "World/International Music",
+    "path": "Entertainment > Music > World/International Music",
+    "zh": "世界音乐与国际音乐"
+  },
+  {
+    "id": "377",
+    "parent": "338",
+    "source": "Urban Contemporary Music",
+    "path": "Entertainment > Music > Urban Contemporary Music",
+    "zh": "都市当代音乐"
+  },
+  {
+    "id": "378",
+    "parent": "338",
+    "source": "Variety (Music and Audio)",
+    "path": "Entertainment > Music > Variety (Music and Audio)",
+    "zh": "音乐与音频综合"
+  },
+  {
+    "id": "163",
+    "parent": "",
+    "source": "Personal Celebrations & Life Events",
+    "path": "Personal Celebrations & Life Events",
+    "zh": "个人庆典与人生大事"
+  },
+  {
+    "id": "164",
+    "parent": "163",
+    "source": "Anniversary",
+    "path": "Personal Celebrations & Life Events > Anniversary",
+    "zh": "纪念日"
+  },
+  {
+    "id": "166",
+    "parent": "163",
+    "source": "Baby Shower",
+    "path": "Personal Celebrations & Life Events > Baby Shower",
+    "zh": "婴儿派对"
+  },
+  {
+    "id": "167",
+    "parent": "163",
+    "source": "Bachelor Party",
+    "path": "Personal Celebrations & Life Events > Bachelor Party",
+    "zh": "单身派对（男性）"
+  },
+  {
+    "id": "168",
+    "parent": "163",
+    "source": "Bachelorette Party",
+    "path": "Personal Celebrations & Life Events > Bachelorette Party",
+    "zh": "单身派对（女性）"
+  },
+  {
+    "id": "169",
+    "parent": "163",
+    "source": "Birth",
+    "path": "Personal Celebrations & Life Events > Birth",
+    "zh": "出生"
+  },
+  {
+    "id": "170",
+    "parent": "163",
+    "source": "Birthday",
+    "path": "Personal Celebrations & Life Events > Birthday",
+    "zh": "生日"
+  },
+  {
+    "id": "171",
+    "parent": "163",
+    "source": "Funeral",
+    "path": "Personal Celebrations & Life Events > Funeral",
+    "zh": "葬礼"
+  },
+  {
+    "id": "172",
+    "parent": "163",
+    "source": "Graduation",
+    "path": "Personal Celebrations & Life Events > Graduation",
+    "zh": "毕业"
+  },
+  {
+    "id": "173",
+    "parent": "163",
+    "source": "Prom",
+    "path": "Personal Celebrations & Life Events > Prom",
+    "zh": "毕业舞会"
+  },
+  {
+    "id": "165",
+    "parent": "163",
+    "source": "Wedding",
+    "path": "Personal Celebrations & Life Events > Wedding",
+    "zh": "婚礼"
+  },
+  {
+    "id": "391",
+    "parent": "",
+    "source": "Personal Finance",
+    "path": "Personal Finance",
+    "zh": "个人理财"
+  },
+  {
+    "id": "392",
+    "parent": "391",
+    "source": "Consumer Banking",
+    "path": "Personal Finance > Consumer Banking",
+    "zh": "零售银行"
+  },
+  {
+    "id": "393",
+    "parent": "391",
+    "source": "Financial Assistance",
+    "path": "Personal Finance > Financial Assistance",
+    "zh": "财务援助"
+  },
+  {
+    "id": "394",
+    "parent": "393",
+    "source": "Government Support and Welfare",
+    "path": "Personal Finance > Financial Assistance > Government Support and Welfare",
+    "zh": "政府支持与社会福利"
+  },
+  {
+    "id": "395",
+    "parent": "393",
+    "source": "Student Financial Aid",
+    "path": "Personal Finance > Financial Assistance > Student Financial Aid",
+    "zh": "学生资助"
+  },
+  {
+    "id": "396",
+    "parent": "391",
+    "source": "Financial Planning",
+    "path": "Personal Finance > Financial Planning",
+    "zh": "财务规划"
+  },
+  {
+    "id": "397",
+    "parent": "391",
+    "source": "Frugal Living",
+    "path": "Personal Finance > Frugal Living",
+    "zh": "节俭生活"
+  },
+  {
+    "id": "417",
+    "parent": "391",
+    "source": "Home Utilities",
+    "path": "Personal Finance > Home Utilities",
+    "zh": "家庭公用事业"
+  },
+  {
+    "id": "418",
+    "parent": "417",
+    "source": "Gas and Electric",
+    "path": "Personal Finance > Home Utilities > Gas and Electric",
+    "zh": "燃气与电力"
+  },
+  {
+    "id": "419",
+    "parent": "417",
+    "source": "Internet Service Providers",
+    "path": "Personal Finance > Home Utilities > Internet Service Providers",
+    "zh": "互联网服务提供商"
+  },
+  {
+    "id": "420",
+    "parent": "417",
+    "source": "Phone Services",
+    "path": "Personal Finance > Home Utilities > Phone Services",
+    "zh": "电话服务"
+  },
+  {
+    "id": "421",
+    "parent": "417",
+    "source": "Water Services",
+    "path": "Personal Finance > Home Utilities > Water Services",
+    "zh": "水务服务"
+  },
+  {
+    "id": "398",
+    "parent": "391",
+    "source": "Insurance",
+    "path": "Personal Finance > Insurance",
+    "zh": "保险"
+  },
+  {
+    "id": "399",
+    "parent": "398",
+    "source": "Health Insurance",
+    "path": "Personal Finance > Insurance > Health Insurance",
+    "zh": "健康保险"
+  },
+  {
+    "id": "400",
+    "parent": "398",
+    "source": "Home Insurance",
+    "path": "Personal Finance > Insurance > Home Insurance",
+    "zh": "家庭财产保险"
+  },
+  {
+    "id": "401",
+    "parent": "398",
+    "source": "Life Insurance",
+    "path": "Personal Finance > Insurance > Life Insurance",
+    "zh": "人寿保险"
+  },
+  {
+    "id": "402",
+    "parent": "398",
+    "source": "Motor Insurance",
+    "path": "Personal Finance > Insurance > Motor Insurance",
+    "zh": "机动车保险"
+  },
+  {
+    "id": "403",
+    "parent": "398",
+    "source": "Pet Insurance",
+    "path": "Personal Finance > Insurance > Pet Insurance",
+    "zh": "宠物保险"
+  },
+  {
+    "id": "404",
+    "parent": "398",
+    "source": "Travel Insurance",
+    "path": "Personal Finance > Insurance > Travel Insurance",
+    "zh": "旅行保险"
+  },
+  {
+    "id": "405",
+    "parent": "391",
+    "source": "Personal Debt",
+    "path": "Personal Finance > Personal Debt",
+    "zh": "个人债务"
+  },
+  {
+    "id": "406",
+    "parent": "405",
+    "source": "Credit Cards",
+    "path": "Personal Finance > Personal Debt > Credit Cards",
+    "zh": "信用卡"
+  },
+  {
+    "id": "407",
+    "parent": "405",
+    "source": "Home Financing",
+    "path": "Personal Finance > Personal Debt > Home Financing",
+    "zh": "住房融资"
+  },
+  {
+    "id": "408",
+    "parent": "405",
+    "source": "Personal Loans",
+    "path": "Personal Finance > Personal Debt > Personal Loans",
+    "zh": "个人贷款"
+  },
+  {
+    "id": "409",
+    "parent": "405",
+    "source": "Student Loans",
+    "path": "Personal Finance > Personal Debt > Student Loans",
+    "zh": "学生贷款"
+  },
+  {
+    "id": "410",
+    "parent": "391",
+    "source": "Personal Investing",
+    "path": "Personal Finance > Personal Investing",
+    "zh": "个人投资"
+  },
+  {
+    "id": "411",
+    "parent": "410",
+    "source": "Hedge Funds",
+    "path": "Personal Finance > Personal Investing > Hedge Funds",
+    "zh": "对冲基金"
+  },
+  {
+    "id": "412",
+    "parent": "410",
+    "source": "Mutual Funds",
+    "path": "Personal Finance > Personal Investing > Mutual Funds",
+    "zh": "共同基金"
+  },
+  {
+    "id": "413",
+    "parent": "410",
+    "source": "Options",
+    "path": "Personal Finance > Personal Investing > Options",
+    "zh": "期权"
+  },
+  {
+    "id": "414",
+    "parent": "410",
+    "source": "Stocks and Bonds",
+    "path": "Personal Finance > Personal Investing > Stocks and Bonds",
+    "zh": "股票与债券"
+  },
+  {
+    "id": "415",
+    "parent": "391",
+    "source": "Personal Taxes",
+    "path": "Personal Finance > Personal Taxes",
+    "zh": "个人税务"
+  },
+  {
+    "id": "416",
+    "parent": "391",
+    "source": "Retirement Planning",
+    "path": "Personal Finance > Retirement Planning",
+    "zh": "退休规划"
+  },
+  {
+    "id": "422",
+    "parent": "",
+    "source": "Pets",
+    "path": "Pets",
+    "zh": "宠物"
+  },
+  {
+    "id": "423",
+    "parent": "422",
+    "source": "Birds",
+    "path": "Pets > Birds",
+    "zh": "鸟类"
+  },
+  {
+    "id": "424",
+    "parent": "422",
+    "source": "Cats",
+    "path": "Pets > Cats",
+    "zh": "猫"
+  },
+  {
+    "id": "425",
+    "parent": "422",
+    "source": "Dogs",
+    "path": "Pets > Dogs",
+    "zh": "狗"
+  },
+  {
+    "id": "426",
+    "parent": "422",
+    "source": "Fish and Aquariums",
+    "path": "Pets > Fish and Aquariums",
+    "zh": "观赏鱼与水族箱"
+  },
+  {
+    "id": "427",
+    "parent": "422",
+    "source": "Large Animals",
+    "path": "Pets > Large Animals",
+    "zh": "大型动物"
+  },
+  {
+    "id": "428",
+    "parent": "422",
+    "source": "Pet Adoptions",
+    "path": "Pets > Pet Adoptions",
+    "zh": "宠物领养"
+  },
+  {
+    "id": "431",
+    "parent": "422",
+    "source": "Pet Supplies",
+    "path": "Pets > Pet Supplies",
+    "zh": "宠物用品"
+  },
+  {
+    "id": "429",
+    "parent": "422",
+    "source": "Reptiles",
+    "path": "Pets > Reptiles",
+    "zh": "爬行动物"
+  },
+  {
+    "id": "430",
+    "parent": "422",
+    "source": "Veterinary Medicine",
+    "path": "Pets > Veterinary Medicine",
+    "zh": "兽医医学"
+  },
+  {
+    "id": "386",
+    "parent": "",
+    "source": "Politics",
+    "path": "Politics",
+    "zh": "政治"
+  },
+  {
+    "id": "8YPBBL",
+    "parent": "386",
+    "source": "Civic affairs",
+    "path": "Politics > Civic affairs",
+    "zh": "公共事务"
+  },
+  {
+    "id": "387",
+    "parent": "386",
+    "source": "Elections",
+    "path": "Politics > Elections",
+    "zh": "选举"
+  },
+  {
+    "id": "388",
+    "parent": "386",
+    "source": "Political Issues & Policy",
+    "path": "Politics > Political Issues & Policy",
+    "zh": "政治议题与政策"
+  },
+  {
+    "id": "432",
+    "parent": "",
+    "source": "Pop Culture",
+    "path": "Pop Culture",
+    "zh": "流行文化"
+  },
+  {
+    "id": "433",
+    "parent": "432",
+    "source": "Celebrity Deaths",
+    "path": "Pop Culture > Celebrity Deaths",
+    "zh": "明星逝世"
+  },
+  {
+    "id": "434",
+    "parent": "432",
+    "source": "Celebrity Families",
+    "path": "Pop Culture > Celebrity Families",
+    "zh": "明星家庭"
+  },
+  {
+    "id": "435",
+    "parent": "432",
+    "source": "Celebrity Homes",
+    "path": "Pop Culture > Celebrity Homes",
+    "zh": "明星住宅"
+  },
+  {
+    "id": "436",
+    "parent": "432",
+    "source": "Celebrity Pregnancy",
+    "path": "Pop Culture > Celebrity Pregnancy",
+    "zh": "明星怀孕"
+  },
+  {
+    "id": "437",
+    "parent": "432",
+    "source": "Celebrity Relationships",
+    "path": "Pop Culture > Celebrity Relationships",
+    "zh": "明星恋情"
+  },
+  {
+    "id": "438",
+    "parent": "432",
+    "source": "Celebrity Scandal",
+    "path": "Pop Culture > Celebrity Scandal",
+    "zh": "明星丑闻"
+  },
+  {
+    "id": "439",
+    "parent": "432",
+    "source": "Celebrity Style",
+    "path": "Pop Culture > Celebrity Style",
+    "zh": "明星时尚"
+  },
+  {
+    "id": "440",
+    "parent": "432",
+    "source": "Humor and Satire",
+    "path": "Pop Culture > Humor and Satire",
+    "zh": "幽默与讽刺"
+  },
+  {
+    "id": "W3CW2J",
+    "parent": "602",
+    "source": "Productivity",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Productivity",
+    "zh": "办公效率软件"
+  },
+  {
+    "id": "441",
+    "parent": "",
+    "source": "Real Estate",
+    "path": "Real Estate",
+    "zh": "房地产"
+  },
+  {
+    "id": "442",
+    "parent": "441",
+    "source": "Apartments",
+    "path": "Real Estate > Apartments",
+    "zh": "公寓"
+  },
+  {
+    "id": "445",
+    "parent": "441",
+    "source": "Developmental Sites",
+    "path": "Real Estate > Developmental Sites",
+    "zh": "开发用地"
+  },
+  {
+    "id": "446",
+    "parent": "441",
+    "source": "Hotel Properties",
+    "path": "Real Estate > Hotel Properties",
+    "zh": "酒店地产"
+  },
+  {
+    "id": "447",
+    "parent": "441",
+    "source": "Houses",
+    "path": "Real Estate > Houses",
+    "zh": "住宅"
+  },
+  {
+    "id": "448",
+    "parent": "441",
+    "source": "Industrial Property",
+    "path": "Real Estate > Industrial Property",
+    "zh": "工业地产"
+  },
+  {
+    "id": "449",
+    "parent": "441",
+    "source": "Land and Farms",
+    "path": "Real Estate > Land and Farms",
+    "zh": "土地与农场"
+  },
+  {
+    "id": "450",
+    "parent": "441",
+    "source": "Office Property",
+    "path": "Real Estate > Office Property",
+    "zh": "写字楼"
+  },
+  {
+    "id": "451",
+    "parent": "441",
+    "source": "Real Estate Buying and Selling",
+    "path": "Real Estate > Real Estate Buying and Selling",
+    "zh": "房产买卖"
+  },
+  {
+    "id": "452",
+    "parent": "441",
+    "source": "Real Estate Renting and Leasing",
+    "path": "Real Estate > Real Estate Renting and Leasing",
+    "zh": "房屋租赁"
+  },
+  {
+    "id": "443",
+    "parent": "441",
+    "source": "Retail Property",
+    "path": "Real Estate > Retail Property",
+    "zh": "商业地产"
+  },
+  {
+    "id": "444",
+    "parent": "441",
+    "source": "Vacation Properties",
+    "path": "Real Estate > Vacation Properties",
+    "zh": "度假房产"
+  },
+  {
+    "id": "453",
+    "parent": "",
+    "source": "Religion & Spirituality",
+    "path": "Religion & Spirituality",
+    "zh": "宗教与灵性"
+  },
+  {
+    "id": "454",
+    "parent": "453",
+    "source": "Agnosticism",
+    "path": "Religion & Spirituality > Agnosticism",
+    "zh": "不可知论"
+  },
+  {
+    "id": "456",
+    "parent": "453",
+    "source": "Astrology",
+    "path": "Religion & Spirituality > Astrology",
+    "zh": "占星术"
+  },
+  {
+    "id": "457",
+    "parent": "453",
+    "source": "Atheism",
+    "path": "Religion & Spirituality > Atheism",
+    "zh": "无神论"
+  },
+  {
+    "id": "458",
+    "parent": "453",
+    "source": "Buddhism",
+    "path": "Religion & Spirituality > Buddhism",
+    "zh": "佛教"
+  },
+  {
+    "id": "459",
+    "parent": "453",
+    "source": "Christianity",
+    "path": "Religion & Spirituality > Christianity",
+    "zh": "基督教"
+  },
+  {
+    "id": "460",
+    "parent": "453",
+    "source": "Hinduism",
+    "path": "Religion & Spirituality > Hinduism",
+    "zh": "印度教"
+  },
+  {
+    "id": "461",
+    "parent": "453",
+    "source": "Islam",
+    "path": "Religion & Spirituality > Islam",
+    "zh": "伊斯兰教"
+  },
+  {
+    "id": "462",
+    "parent": "453",
+    "source": "Judaism",
+    "path": "Religion & Spirituality > Judaism",
+    "zh": "犹太教"
+  },
+  {
+    "id": "463",
+    "parent": "453",
+    "source": "Sikhism",
+    "path": "Religion & Spirituality > Sikhism",
+    "zh": "锡克教"
+  },
+  {
+    "id": "455",
+    "parent": "453",
+    "source": "Spirituality",
+    "path": "Religion & Spirituality > Spirituality",
+    "zh": "灵性"
+  },
+  {
+    "id": "464",
+    "parent": "",
+    "source": "Science",
+    "path": "Science",
+    "zh": "科学"
+  },
+  {
+    "id": "465",
+    "parent": "464",
+    "source": "Biological Sciences",
+    "path": "Science > Biological Sciences",
+    "zh": "生命科学"
+  },
+  {
+    "id": "466",
+    "parent": "464",
+    "source": "Chemistry",
+    "path": "Science > Chemistry",
+    "zh": "化学"
+  },
+  {
+    "id": "467",
+    "parent": "464",
+    "source": "Environment",
+    "path": "Science > Environment",
+    "zh": "环境"
+  },
+  {
+    "id": "468",
+    "parent": "464",
+    "source": "Genetics",
+    "path": "Science > Genetics",
+    "zh": "遗传学"
+  },
+  {
+    "id": "469",
+    "parent": "464",
+    "source": "Geography",
+    "path": "Science > Geography",
+    "zh": "地理学"
+  },
+  {
+    "id": "470",
+    "parent": "464",
+    "source": "Geology",
+    "path": "Science > Geology",
+    "zh": "地质学"
+  },
+  {
+    "id": "471",
+    "parent": "464",
+    "source": "Physics",
+    "path": "Science > Physics",
+    "zh": "物理学"
+  },
+  {
+    "id": "472",
+    "parent": "464",
+    "source": "Space and Astronomy",
+    "path": "Science > Space and Astronomy",
+    "zh": "天文与空间科学"
+  },
+  {
+    "id": "390",
+    "parent": "464",
+    "source": "Weather",
+    "path": "Science > Weather",
+    "zh": "天气"
+  },
+  {
+    "id": "v9i3On",
+    "parent": "",
+    "source": "Sensitive Topics",
+    "path": "Sensitive Topics",
+    "zh": "敏感话题"
+  },
+  {
+    "id": "Rm3SiT",
+    "parent": "v9i3On",
+    "source": "Adult & Explicit Sexual Content",
+    "path": "Sensitive Topics > Adult & Explicit Sexual Content",
+    "zh": "成人及露骨性内容"
+  },
+  {
+    "id": "avbNf2",
+    "parent": "v9i3On",
+    "source": "Arms & Ammunition",
+    "path": "Sensitive Topics > Arms & Ammunition",
+    "zh": "武器与弹药"
+  },
+  {
+    "id": "XtODT3",
+    "parent": "v9i3On",
+    "source": "Crime & Harmful Acts to Individuals, Society & Human Right Violations",
+    "path": "Sensitive Topics > Crime & Harmful Acts to Individuals, Society & Human Right Violations",
+    "zh": "犯罪及侵害个人、社会与违反人权行为"
+  },
+  {
+    "id": "I4GWl6",
+    "parent": "v9i3On",
+    "source": "Death, Injury, or Military Conflict",
+    "path": "Sensitive Topics > Death, Injury, or Military Conflict",
+    "zh": "死亡、伤害或军事冲突"
+  },
+  {
+    "id": "Z7rJBM",
+    "parent": "v9i3On",
+    "source": "Debated Sensitive Social Issues",
+    "path": "Sensitive Topics > Debated Sensitive Social Issues",
+    "zh": "争议性社会敏感议题"
+  },
+  {
+    "id": "HxqYV1",
+    "parent": "v9i3On",
+    "source": "Hate Speech and Acts of Aggression",
+    "path": "Sensitive Topics > Hate Speech and Acts of Aggression",
+    "zh": "仇恨言论与攻击行为"
+  },
+  {
+    "id": "pg0WhF",
+    "parent": "v9i3On",
+    "source": "Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol",
+    "path": "Sensitive Topics > Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol",
+    "zh": "毒品、烟草、电子烟、雾化产品与酒精"
+  },
+  {
+    "id": "j9PaO9",
+    "parent": "v9i3On",
+    "source": "Obscenity and Profanity",
+    "path": "Sensitive Topics > Obscenity and Profanity",
+    "zh": "色情低俗与粗俗用语"
+  },
+  {
+    "id": "mm3UXx",
+    "parent": "v9i3On",
+    "source": "Online Piracy",
+    "path": "Sensitive Topics > Online Piracy",
+    "zh": "网络盗版"
+  },
+  {
+    "id": "6i4dB6",
+    "parent": "v9i3On",
+    "source": "Spam or Harmful Content",
+    "path": "Sensitive Topics > Spam or Harmful Content",
+    "zh": "垃圾信息或有害内容"
+  },
+  {
+    "id": "8FD8nI",
+    "parent": "v9i3On",
+    "source": "Terrorism",
+    "path": "Sensitive Topics > Terrorism",
+    "zh": "恐怖主义"
+  },
+  {
+    "id": "473",
+    "parent": "",
+    "source": "Shopping",
+    "path": "Shopping",
+    "zh": "购物"
+  },
+  {
+    "id": "482",
+    "parent": "473",
+    "source": "Children's Games and Toys",
+    "path": "Shopping > Children's Games and Toys",
+    "zh": "儿童游戏与玩具"
+  },
+  {
+    "id": "474",
+    "parent": "473",
+    "source": "Coupons and Discounts",
+    "path": "Shopping > Coupons and Discounts",
+    "zh": "优惠券与折扣"
+  },
+  {
+    "id": "475",
+    "parent": "473",
+    "source": "Flower Shopping",
+    "path": "Shopping > Flower Shopping",
+    "zh": "鲜花购物"
+  },
+  {
+    "id": "476",
+    "parent": "473",
+    "source": "Gifts and Greetings Cards",
+    "path": "Shopping > Gifts and Greetings Cards",
+    "zh": "礼品与贺卡"
+  },
+  {
+    "id": "477",
+    "parent": "473",
+    "source": "Grocery Shopping",
+    "path": "Shopping > Grocery Shopping",
+    "zh": "食品杂货购物"
+  },
+  {
+    "id": "478",
+    "parent": "473",
+    "source": "Holiday Shopping",
+    "path": "Shopping > Holiday Shopping",
+    "zh": "节日购物"
+  },
+  {
+    "id": "479",
+    "parent": "473",
+    "source": "Household Supplies",
+    "path": "Shopping > Household Supplies",
+    "zh": "家居用品"
+  },
+  {
+    "id": "480",
+    "parent": "473",
+    "source": "Lotteries and Scratchcards",
+    "path": "Shopping > Lotteries and Scratchcards",
+    "zh": "彩票与刮刮卡"
+  },
+  {
+    "id": "161",
+    "parent": "473",
+    "source": "Party Supplies and Decorations",
+    "path": "Shopping > Party Supplies and Decorations",
+    "zh": "派对用品与装饰"
+  },
+  {
+    "id": "481",
+    "parent": "473",
+    "source": "Sales and Promotions",
+    "path": "Shopping > Sales and Promotions",
+    "zh": "促销与特卖"
+  },
+  {
+    "id": "483",
+    "parent": "",
+    "source": "Sports",
+    "path": "Sports",
+    "zh": "体育"
+  },
+  {
+    "id": "484",
+    "parent": "483",
+    "source": "American Football",
+    "path": "Sports > American Football",
+    "zh": "美式橄榄球"
+  },
+  {
+    "id": "507",
+    "parent": "483",
+    "source": "Australian Rules Football",
+    "path": "Sports > Australian Rules Football",
+    "zh": "澳式橄榄球"
+  },
+  {
+    "id": "518",
+    "parent": "483",
+    "source": "Auto Racing",
+    "path": "Sports > Auto Racing",
+    "zh": "汽车赛事"
+  },
+  {
+    "id": "519",
+    "parent": "518",
+    "source": "Motorcycle Sports",
+    "path": "Sports > Auto Racing > Motorcycle Sports",
+    "zh": "摩托车运动"
+  },
+  {
+    "id": "534",
+    "parent": "483",
+    "source": "Badminton",
+    "path": "Sports > Badminton",
+    "zh": "羽毛球"
+  },
+  {
+    "id": "545",
+    "parent": "483",
+    "source": "Baseball",
+    "path": "Sports > Baseball",
+    "zh": "棒球"
+  },
+  {
+    "id": "547",
+    "parent": "483",
+    "source": "Basketball",
+    "path": "Sports > Basketball",
+    "zh": "篮球"
+  },
+  {
+    "id": "548",
+    "parent": "483",
+    "source": "Beach Volleyball",
+    "path": "Sports > Beach Volleyball",
+    "zh": "沙滩排球"
+  },
+  {
+    "id": "549",
+    "parent": "483",
+    "source": "Bodybuilding",
+    "path": "Sports > Bodybuilding",
+    "zh": "健美"
+  },
+  {
+    "id": "550",
+    "parent": "483",
+    "source": "Bowling",
+    "path": "Sports > Bowling",
+    "zh": "保龄球"
+  },
+  {
+    "id": "485",
+    "parent": "483",
+    "source": "Boxing",
+    "path": "Sports > Boxing",
+    "zh": "拳击"
+  },
+  {
+    "id": "486",
+    "parent": "483",
+    "source": "Cheerleading",
+    "path": "Sports > Cheerleading",
+    "zh": "啦啦队"
+  },
+  {
+    "id": "487",
+    "parent": "483",
+    "source": "College Sports",
+    "path": "Sports > College Sports",
+    "zh": "大学体育"
+  },
+  {
+    "id": "490",
+    "parent": "487",
+    "source": "College Baseball",
+    "path": "Sports > College Sports > College Baseball",
+    "zh": "大学棒球"
+  },
+  {
+    "id": "489",
+    "parent": "487",
+    "source": "College Basketball",
+    "path": "Sports > College Sports > College Basketball",
+    "zh": "大学篮球"
+  },
+  {
+    "id": "488",
+    "parent": "487",
+    "source": "College Football",
+    "path": "Sports > College Sports > College Football",
+    "zh": "大学橄榄球"
+  },
+  {
+    "id": "491",
+    "parent": "483",
+    "source": "Cricket",
+    "path": "Sports > Cricket",
+    "zh": "板球"
+  },
+  {
+    "id": "492",
+    "parent": "483",
+    "source": "Cycling",
+    "path": "Sports > Cycling",
+    "zh": "自行车运动"
+  },
+  {
+    "id": "493",
+    "parent": "483",
+    "source": "Darts",
+    "path": "Sports > Darts",
+    "zh": "飞镖"
+  },
+  {
+    "id": "494",
+    "parent": "483",
+    "source": "Disabled Sports",
+    "path": "Sports > Disabled Sports",
+    "zh": "残奥体育"
+  },
+  {
+    "id": "495",
+    "parent": "483",
+    "source": "Diving",
+    "path": "Sports > Diving",
+    "zh": "跳水"
+  },
+  {
+    "id": "496",
+    "parent": "483",
+    "source": "Equine Sports",
+    "path": "Sports > Equine Sports",
+    "zh": "马术运动"
+  },
+  {
+    "id": "497",
+    "parent": "483",
+    "source": "Horse Racing",
+    "path": "Sports > Equine Sports > Horse Racing",
+    "zh": "赛马"
+  },
+  {
+    "id": "498",
+    "parent": "483",
+    "source": "Extreme Sports",
+    "path": "Sports > Extreme Sports",
+    "zh": "极限运动"
+  },
+  {
+    "id": "499",
+    "parent": "498",
+    "source": "Canoeing and Kayaking",
+    "path": "Sports > Extreme Sports > Canoeing and Kayaking",
+    "zh": "皮划艇"
+  },
+  {
+    "id": "500",
+    "parent": "498",
+    "source": "Climbing",
+    "path": "Sports > Extreme Sports > Climbing",
+    "zh": "攀岩"
+  },
+  {
+    "id": "501",
+    "parent": "498",
+    "source": "Paintball",
+    "path": "Sports > Extreme Sports > Paintball",
+    "zh": "彩弹射击"
+  },
+  {
+    "id": "502",
+    "parent": "498",
+    "source": "Scuba Diving",
+    "path": "Sports > Extreme Sports > Scuba Diving",
+    "zh": "水肺潜水"
+  },
+  {
+    "id": "503",
+    "parent": "498",
+    "source": "Skateboarding",
+    "path": "Sports > Extreme Sports > Skateboarding",
+    "zh": "滑板"
+  },
+  {
+    "id": "504",
+    "parent": "498",
+    "source": "Snowboarding",
+    "path": "Sports > Extreme Sports > Snowboarding",
+    "zh": "单板滑雪"
+  },
+  {
+    "id": "505",
+    "parent": "498",
+    "source": "Surfing and Bodyboarding",
+    "path": "Sports > Extreme Sports > Surfing and Bodyboarding",
+    "zh": "冲浪与趴板冲浪"
+  },
+  {
+    "id": "506",
+    "parent": "498",
+    "source": "Waterskiing and Wakeboarding",
+    "path": "Sports > Extreme Sports > Waterskiing and Wakeboarding",
+    "zh": "滑水与尾波滑水"
+  },
+  {
+    "id": "508",
+    "parent": "483",
+    "source": "Fantasy Sports",
+    "path": "Sports > Fantasy Sports",
+    "zh": "幻想体育"
+  },
+  {
+    "id": "509",
+    "parent": "483",
+    "source": "Field Hockey",
+    "path": "Sports > Field Hockey",
+    "zh": "曲棍球"
+  },
+  {
+    "id": "510",
+    "parent": "483",
+    "source": "Figure Skating",
+    "path": "Sports > Figure Skating",
+    "zh": "花样滑冰"
+  },
+  {
+    "id": "511",
+    "parent": "483",
+    "source": "Fishing Sports",
+    "path": "Sports > Fishing Sports",
+    "zh": "钓鱼运动"
+  },
+  {
+    "id": "512",
+    "parent": "483",
+    "source": "Golf",
+    "path": "Sports > Golf",
+    "zh": "高尔夫"
+  },
+  {
+    "id": "513",
+    "parent": "483",
+    "source": "Gymnastics",
+    "path": "Sports > Gymnastics",
+    "zh": "体操"
+  },
+  {
+    "id": "514",
+    "parent": "483",
+    "source": "Hunting and Shooting",
+    "path": "Sports > Hunting and Shooting",
+    "zh": "狩猎与射击"
+  },
+  {
+    "id": "515",
+    "parent": "483",
+    "source": "Ice Hockey",
+    "path": "Sports > Ice Hockey",
+    "zh": "冰球"
+  },
+  {
+    "id": "516",
+    "parent": "483",
+    "source": "Inline Skating",
+    "path": "Sports > Inline Skating",
+    "zh": "轮滑"
+  },
+  {
+    "id": "517",
+    "parent": "483",
+    "source": "Lacrosse",
+    "path": "Sports > Lacrosse",
+    "zh": "长曲棍球"
+  },
+  {
+    "id": "520",
+    "parent": "483",
+    "source": "Martial Arts",
+    "path": "Sports > Martial Arts",
+    "zh": "武术"
+  },
+  {
+    "id": "521",
+    "parent": "483",
+    "source": "Olympic Sports",
+    "path": "Sports > Olympic Sports",
+    "zh": "奥运项目"
+  },
+  {
+    "id": "522",
+    "parent": "521",
+    "source": "Summer Olympic Sports",
+    "path": "Sports > Olympic Sports > Summer Olympic Sports",
+    "zh": "夏季奥运项目"
+  },
+  {
+    "id": "523",
+    "parent": "521",
+    "source": "Winter Olympic Sports",
+    "path": "Sports > Olympic Sports > Winter Olympic Sports",
+    "zh": "冬季奥运项目"
+  },
+  {
+    "id": "524",
+    "parent": "483",
+    "source": "Poker and Professional Gambling",
+    "path": "Sports > Poker and Professional Gambling",
+    "zh": "扑克与职业博彩"
+  },
+  {
+    "id": "525",
+    "parent": "483",
+    "source": "Rodeo",
+    "path": "Sports > Rodeo",
+    "zh": "牛仔竞技"
+  },
+  {
+    "id": "526",
+    "parent": "483",
+    "source": "Rowing",
+    "path": "Sports > Rowing",
+    "zh": "赛艇"
+  },
+  {
+    "id": "527",
+    "parent": "483",
+    "source": "Rugby",
+    "path": "Sports > Rugby",
+    "zh": "橄榄球"
+  },
+  {
+    "id": "528",
+    "parent": "527",
+    "source": "Rugby League",
+    "path": "Sports > Rugby > Rugby League",
+    "zh": "联盟式橄榄球"
+  },
+  {
+    "id": "529",
+    "parent": "527",
+    "source": "Rugby Union",
+    "path": "Sports > Rugby > Rugby Union",
+    "zh": "联合式橄榄球"
+  },
+  {
+    "id": "530",
+    "parent": "483",
+    "source": "Sailing",
+    "path": "Sports > Sailing",
+    "zh": "帆船"
+  },
+  {
+    "id": "531",
+    "parent": "483",
+    "source": "Skiing",
+    "path": "Sports > Skiing",
+    "zh": "滑雪"
+  },
+  {
+    "id": "532",
+    "parent": "483",
+    "source": "Snooker/Pool/Billiards",
+    "path": "Sports > Snooker/Pool/Billiards",
+    "zh": "斯诺克／台球／撞球"
+  },
+  {
+    "id": "533",
+    "parent": "483",
+    "source": "Soccer",
+    "path": "Sports > Soccer",
+    "zh": "足球"
+  },
+  {
+    "id": "535",
+    "parent": "483",
+    "source": "Softball",
+    "path": "Sports > Softball",
+    "zh": "垒球"
+  },
+  {
+    "id": "551",
+    "parent": "483",
+    "source": "Sports Equipment",
+    "path": "Sports > Sports Equipment",
+    "zh": "体育器材"
+  },
+  {
+    "id": "536",
+    "parent": "483",
+    "source": "Squash",
+    "path": "Sports > Squash",
+    "zh": "壁球"
+  },
+  {
+    "id": "537",
+    "parent": "483",
+    "source": "Swimming",
+    "path": "Sports > Swimming",
+    "zh": "游泳"
+  },
+  {
+    "id": "538",
+    "parent": "483",
+    "source": "Table Tennis",
+    "path": "Sports > Table Tennis",
+    "zh": "乒乓球"
+  },
+  {
+    "id": "539",
+    "parent": "483",
+    "source": "Tennis",
+    "path": "Sports > Tennis",
+    "zh": "网球"
+  },
+  {
+    "id": "540",
+    "parent": "483",
+    "source": "Track and Field",
+    "path": "Sports > Track and Field",
+    "zh": "田径"
+  },
+  {
+    "id": "541",
+    "parent": "483",
+    "source": "Volleyball",
+    "path": "Sports > Volleyball",
+    "zh": "排球"
+  },
+  {
+    "id": "542",
+    "parent": "483",
+    "source": "Walking",
+    "path": "Sports > Walking",
+    "zh": "健步"
+  },
+  {
+    "id": "543",
+    "parent": "483",
+    "source": "Water Polo",
+    "path": "Sports > Water Polo",
+    "zh": "水球"
+  },
+  {
+    "id": "544",
+    "parent": "483",
+    "source": "Weightlifting",
+    "path": "Sports > Weightlifting",
+    "zh": "举重"
+  },
+  {
+    "id": "546",
+    "parent": "483",
+    "source": "Wrestling",
+    "path": "Sports > Wrestling",
+    "zh": "摔跤"
+  },
+  {
+    "id": "552",
+    "parent": "",
+    "source": "Style & Fashion",
+    "path": "Style & Fashion",
+    "zh": "时尚与风格"
+  },
+  {
+    "id": "553",
+    "parent": "552",
+    "source": "Beauty",
+    "path": "Style & Fashion > Beauty",
+    "zh": "美容"
+  },
+  {
+    "id": "554",
+    "parent": "553",
+    "source": "Hair Care",
+    "path": "Style & Fashion > Beauty > Hair Care",
+    "zh": "护发"
+  },
+  {
+    "id": "555",
+    "parent": "553",
+    "source": "Makeup and Accessories",
+    "path": "Style & Fashion > Beauty > Makeup and Accessories",
+    "zh": "彩妆与配饰"
+  },
+  {
+    "id": "556",
+    "parent": "553",
+    "source": "Nail Care",
+    "path": "Style & Fashion > Beauty > Nail Care",
+    "zh": "美甲"
+  },
+  {
+    "id": "557",
+    "parent": "553",
+    "source": "Natural and Organic Beauty",
+    "path": "Style & Fashion > Beauty > Natural and Organic Beauty",
+    "zh": "天然与有机美容"
+  },
+  {
+    "id": "558",
+    "parent": "553",
+    "source": "Perfume and Fragrance",
+    "path": "Style & Fashion > Beauty > Perfume and Fragrance",
+    "zh": "香水与香氛"
+  },
+  {
+    "id": "559",
+    "parent": "553",
+    "source": "Skin Care",
+    "path": "Style & Fashion > Beauty > Skin Care",
+    "zh": "护肤"
+  },
+  {
+    "id": "574",
+    "parent": "552",
+    "source": "Body Art",
+    "path": "Style & Fashion > Body Art",
+    "zh": "身体艺术"
+  },
+  {
+    "id": "575",
+    "parent": "552",
+    "source": "Children's Clothing",
+    "path": "Style & Fashion > Children's Clothing",
+    "zh": "儿童服装"
+  },
+  {
+    "id": "576",
+    "parent": "552",
+    "source": "Designer Clothing",
+    "path": "Style & Fashion > Designer Clothing",
+    "zh": "设计师服装"
+  },
+  {
+    "id": "577",
+    "parent": "552",
+    "source": "Fashion Trends",
+    "path": "Style & Fashion > Fashion Trends",
+    "zh": "时尚趋势"
+  },
+  {
+    "id": "578",
+    "parent": "552",
+    "source": "High Fashion",
+    "path": "Style & Fashion > High Fashion",
+    "zh": "高级时装"
+  },
+  {
+    "id": "579",
+    "parent": "552",
+    "source": "Men's Fashion",
+    "path": "Style & Fashion > Men's Fashion",
+    "zh": "男士时尚"
+  },
+  {
+    "id": "580",
+    "parent": "579",
+    "source": "Men's Accessories",
+    "path": "Style & Fashion > Men's Fashion > Men's Accessories",
+    "zh": "男士配饰"
+  },
+  {
+    "id": "581",
+    "parent": "580",
+    "source": "Men's Jewelry and Watches",
+    "path": "Style & Fashion > Men's Fashion > Men's Accessories > Men's Jewelry and Watches",
+    "zh": "男士珠宝与腕表"
+  },
+  {
+    "id": "582",
+    "parent": "579",
+    "source": "Men's Clothing",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing",
+    "zh": "男士服装"
+  },
+  {
+    "id": "583",
+    "parent": "582",
+    "source": "Men's Business Wear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Business Wear",
+    "zh": "男士商务装"
+  },
+  {
+    "id": "584",
+    "parent": "582",
+    "source": "Men's Casual Wear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Casual Wear",
+    "zh": "男士休闲装"
+  },
+  {
+    "id": "585",
+    "parent": "582",
+    "source": "Men's Formal Wear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Formal Wear",
+    "zh": "男士正装"
+  },
+  {
+    "id": "586",
+    "parent": "582",
+    "source": "Men's Outerwear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Outerwear",
+    "zh": "男士外套"
+  },
+  {
+    "id": "587",
+    "parent": "582",
+    "source": "Men's Sportswear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Sportswear",
+    "zh": "男士运动装"
+  },
+  {
+    "id": "588",
+    "parent": "582",
+    "source": "Men's Underwear and Sleepwear",
+    "path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Underwear and Sleepwear",
+    "zh": "男士内衣与睡衣"
+  },
+  {
+    "id": "589",
+    "parent": "579",
+    "source": "Men's Shoes and Footwear",
+    "path": "Style & Fashion > Men's Fashion > Men's Shoes and Footwear",
+    "zh": "男士鞋履"
+  },
+  {
+    "id": "590",
+    "parent": "552",
+    "source": "Personal Care",
+    "path": "Style & Fashion > Personal Care",
+    "zh": "个人护理"
+  },
+  {
+    "id": "591",
+    "parent": "590",
+    "source": "Bath and Shower",
+    "path": "Style & Fashion > Personal Care > Bath and Shower",
+    "zh": "沐浴与洗浴"
+  },
+  {
+    "id": "592",
+    "parent": "590",
+    "source": "Deodorant and Antiperspirant",
+    "path": "Style & Fashion > Personal Care > Deodorant and Antiperspirant",
+    "zh": "止汗剂与除臭剂"
+  },
+  {
+    "id": "593",
+    "parent": "590",
+    "source": "Oral care",
+    "path": "Style & Fashion > Personal Care > Oral care",
+    "zh": "口腔护理"
+  },
+  {
+    "id": "594",
+    "parent": "590",
+    "source": "Shaving",
+    "path": "Style & Fashion > Personal Care > Shaving",
+    "zh": "剃须"
+  },
+  {
+    "id": "595",
+    "parent": "552",
+    "source": "Street Style",
+    "path": "Style & Fashion > Street Style",
+    "zh": "街头风格"
+  },
+  {
+    "id": "560",
+    "parent": "552",
+    "source": "Women's Fashion",
+    "path": "Style & Fashion > Women's Fashion",
+    "zh": "女装"
+  },
+  {
+    "id": "561",
+    "parent": "560",
+    "source": "Women's Accessories",
+    "path": "Style & Fashion > Women's Fashion > Women's Accessories",
+    "zh": "女士配饰"
+  },
+  {
+    "id": "562",
+    "parent": "561",
+    "source": "Women's Glasses",
+    "path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Glasses",
+    "zh": "女士眼镜"
+  },
+  {
+    "id": "563",
+    "parent": "561",
+    "source": "Women's Handbags and Wallets",
+    "path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Handbags and Wallets",
+    "zh": "女士包袋与钱包"
+  },
+  {
+    "id": "564",
+    "parent": "561",
+    "source": "Women's Hats and Scarves",
+    "path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Hats and Scarves",
+    "zh": "女士帽饰与围巾"
+  },
+  {
+    "id": "565",
+    "parent": "561",
+    "source": "Women's Jewelry and Watches",
+    "path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Jewelry and Watches",
+    "zh": "女士珠宝与腕表"
+  },
+  {
+    "id": "566",
+    "parent": "560",
+    "source": "Women's Clothing",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing",
+    "zh": "女士服装"
+  },
+  {
+    "id": "567",
+    "parent": "566",
+    "source": "Women's Business Wear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Business Wear",
+    "zh": "女士商务装"
+  },
+  {
+    "id": "568",
+    "parent": "566",
+    "source": "Women's Casual Wear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Casual Wear",
+    "zh": "女士休闲装"
+  },
+  {
+    "id": "569",
+    "parent": "566",
+    "source": "Women's Formal Wear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Formal Wear",
+    "zh": "女士正装"
+  },
+  {
+    "id": "570",
+    "parent": "566",
+    "source": "Women's Intimates and Sleepwear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Intimates and Sleepwear",
+    "zh": "女士内衣与睡衣"
+  },
+  {
+    "id": "571",
+    "parent": "566",
+    "source": "Women's Outerwear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Outerwear",
+    "zh": "女士外套"
+  },
+  {
+    "id": "572",
+    "parent": "566",
+    "source": "Women's Sportswear",
+    "path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Sportswear",
+    "zh": "女士运动装"
+  },
+  {
+    "id": "573",
+    "parent": "560",
+    "source": "Women's Shoes and Footwear",
+    "path": "Style & Fashion > Women's Fashion > Women's Shoes and Footwear",
+    "zh": "女士鞋履"
+  },
+  {
+    "id": "596",
+    "parent": "",
+    "source": "Technology & Computing",
+    "path": "Technology & Computing",
+    "zh": "科技与计算"
+  },
+  {
+    "id": "597",
+    "parent": "596",
+    "source": "Artificial Intelligence",
+    "path": "Technology & Computing > Artificial Intelligence",
+    "zh": "人工智能"
+  },
+  {
+    "id": "598",
+    "parent": "596",
+    "source": "Augmented Reality",
+    "path": "Technology & Computing > Augmented Reality",
+    "zh": "增强现实"
+  },
+  {
+    "id": "599",
+    "parent": "596",
+    "source": "Computing",
+    "path": "Technology & Computing > Computing",
+    "zh": "计算"
+  },
+  {
+    "id": "600",
+    "parent": "599",
+    "source": "Computer Networking",
+    "path": "Technology & Computing > Computing > Computer Networking",
+    "zh": "计算机网络"
+  },
+  {
+    "id": "601",
+    "parent": "599",
+    "source": "Computer Peripherals",
+    "path": "Technology & Computing > Computing > Computer Peripherals",
+    "zh": "计算机外设"
+  },
+  {
+    "id": "602",
+    "parent": "599",
+    "source": "Computer Software and Applications",
+    "path": "Technology & Computing > Computing > Computer Software and Applications",
+    "zh": "计算机软件与应用"
+  },
+  {
+    "id": "603",
+    "parent": "602",
+    "source": "3-D Graphics",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > 3-D Graphics",
+    "zh": "3D图形"
+  },
+  {
+    "id": "608",
+    "parent": "602",
+    "source": "Antivirus Software",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Antivirus Software",
+    "zh": "杀毒软件"
+  },
+  {
+    "id": "609",
+    "parent": "602",
+    "source": "Browsers",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Browsers",
+    "zh": "浏览器"
+  },
+  {
+    "id": "610",
+    "parent": "602",
+    "source": "Computer Animation",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Computer Animation",
+    "zh": "计算机动画"
+  },
+  {
+    "id": "611",
+    "parent": "602",
+    "source": "Databases",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Databases",
+    "zh": "数据库"
+  },
+  {
+    "id": "612",
+    "parent": "602",
+    "source": "Desktop Publishing",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Desktop Publishing",
+    "zh": "桌面排版软件"
+  },
+  {
+    "id": "613",
+    "parent": "602",
+    "source": "Digital Audio",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Digital Audio",
+    "zh": "数字音频"
+  },
+  {
+    "id": "WQC6HR",
+    "parent": "602",
+    "source": "Maps & Navigation",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Maps & Navigation",
+    "zh": "地图与导航"
+  },
+  {
+    "id": "614",
+    "parent": "602",
+    "source": "Graphics Software",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Graphics Software",
+    "zh": "图形软件"
+  },
+  {
+    "id": "615",
+    "parent": "602",
+    "source": "Operating Systems",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Operating Systems",
+    "zh": "操作系统"
+  },
+  {
+    "id": "604",
+    "parent": "602",
+    "source": "Photo Editing Software",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Photo Editing Software",
+    "zh": "图像编辑软件"
+  },
+  {
+    "id": "605",
+    "parent": "602",
+    "source": "Shareware and Freeware",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Shareware and Freeware",
+    "zh": "共享软件与免费软件"
+  },
+  {
+    "id": "606",
+    "parent": "602",
+    "source": "Video Software",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Video Software",
+    "zh": "视频软件"
+  },
+  {
+    "id": "607",
+    "parent": "602",
+    "source": "Web Conferencing",
+    "path": "Technology & Computing > Computing > Computer Software and Applications > Web Conferencing",
+    "zh": "网络会议"
+  },
+  {
+    "id": "616",
+    "parent": "599",
+    "source": "Data Storage and Warehousing",
+    "path": "Technology & Computing > Computing > Data Storage and Warehousing",
+    "zh": "数据存储与数据仓库"
+  },
+  {
+    "id": "617",
+    "parent": "599",
+    "source": "Desktops",
+    "path": "Technology & Computing > Computing > Desktops",
+    "zh": "台式机"
+  },
+  {
+    "id": "618",
+    "parent": "599",
+    "source": "Information and Network Security",
+    "path": "Technology & Computing > Computing > Information and Network Security",
+    "zh": "信息安全与网络安全"
+  },
+  {
+    "id": "619",
+    "parent": "599",
+    "source": "Internet",
+    "path": "Technology & Computing > Computing > Internet",
+    "zh": "互联网"
+  },
+  {
+    "id": "620",
+    "parent": "619",
+    "source": "Cloud Computing",
+    "path": "Technology & Computing > Computing > Internet > Cloud Computing",
+    "zh": "云计算"
+  },
+  {
+    "id": "623",
+    "parent": "619",
+    "source": "Email",
+    "path": "Technology & Computing > Computing > Internet > Email",
+    "zh": "电子邮件"
+  },
+  {
+    "id": "624",
+    "parent": "619",
+    "source": "Internet for Beginners",
+    "path": "Technology & Computing > Computing > Internet > Internet for Beginners",
+    "zh": "互联网入门"
+  },
+  {
+    "id": "625",
+    "parent": "619",
+    "source": "Internet of Things",
+    "path": "Technology & Computing > Computing > Internet > Internet of Things",
+    "zh": "物联网"
+  },
+  {
+    "id": "626",
+    "parent": "619",
+    "source": "IT and Internet Support",
+    "path": "Technology & Computing > Computing > Internet > IT and Internet Support",
+    "zh": "IT与互联网支持"
+  },
+  {
+    "id": "627",
+    "parent": "619",
+    "source": "Search",
+    "path": "Technology & Computing > Computing > Internet > Search",
+    "zh": "搜索"
+  },
+  {
+    "id": "628",
+    "parent": "619",
+    "source": "Social Networking",
+    "path": "Technology & Computing > Computing > Internet > Social Networking",
+    "zh": "社交网络"
+  },
+  {
+    "id": "629",
+    "parent": "619",
+    "source": "Web Design and HTML",
+    "path": "Technology & Computing > Computing > Internet > Web Design and HTML",
+    "zh": "网页设计与HTML"
+  },
+  {
+    "id": "621",
+    "parent": "619",
+    "source": "Web Development",
+    "path": "Technology & Computing > Computing > Internet > Web Development",
+    "zh": "网页开发"
+  },
+  {
+    "id": "622",
+    "parent": "619",
+    "source": "Web Hosting",
+    "path": "Technology & Computing > Computing > Internet > Web Hosting",
+    "zh": "网站托管"
+  },
+  {
+    "id": "630",
+    "parent": "599",
+    "source": "Laptops",
+    "path": "Technology & Computing > Computing > Laptops",
+    "zh": "笔记本电脑"
+  },
+  {
+    "id": "631",
+    "parent": "599",
+    "source": "Programming Languages",
+    "path": "Technology & Computing > Computing > Programming Languages",
+    "zh": "编程语言"
+  },
+  {
+    "id": "632",
+    "parent": "596",
+    "source": "Consumer Electronics",
+    "path": "Technology & Computing > Consumer Electronics",
+    "zh": "消费电子"
+  },
+  {
+    "id": "633",
+    "parent": "632",
+    "source": "Cameras and Camcorders",
+    "path": "Technology & Computing > Consumer Electronics > Cameras and Camcorders",
+    "zh": "相机与摄像机"
+  },
+  {
+    "id": "634",
+    "parent": "632",
+    "source": "Home Entertainment Systems",
+    "path": "Technology & Computing > Consumer Electronics > Home Entertainment Systems",
+    "zh": "家庭影音系统"
+  },
+  {
+    "id": "635",
+    "parent": "632",
+    "source": "Smartphones",
+    "path": "Technology & Computing > Consumer Electronics > Smartphones",
+    "zh": "智能手机"
+  },
+  {
+    "id": "636",
+    "parent": "632",
+    "source": "Tablets and E-readers",
+    "path": "Technology & Computing > Consumer Electronics > Tablets and E-readers",
+    "zh": "平板电脑与电子书阅读器"
+  },
+  {
+    "id": "637",
+    "parent": "632",
+    "source": "Wearable Technology",
+    "path": "Technology & Computing > Consumer Electronics > Wearable Technology",
+    "zh": "可穿戴设备"
+  },
+  {
+    "id": "638",
+    "parent": "596",
+    "source": "Robotics",
+    "path": "Technology & Computing > Robotics",
+    "zh": "机器人技术"
+  },
+  {
+    "id": "639",
+    "parent": "596",
+    "source": "Virtual Reality",
+    "path": "Technology & Computing > Virtual Reality",
+    "zh": "虚拟现实"
+  },
+  {
+    "id": "653",
+    "parent": "",
+    "source": "Travel",
+    "path": "Travel",
+    "zh": "旅游"
+  },
+  {
+    "id": "654",
+    "parent": "653",
+    "source": "Travel Accessories",
+    "path": "Travel > Travel Accessories",
+    "zh": "旅行配件"
+  },
+  {
+    "id": "655",
+    "parent": "653",
+    "source": "Travel Locations",
+    "path": "Travel > Travel Locations",
+    "zh": "旅游目的地"
+  },
+  {
+    "id": "656",
+    "parent": "655",
+    "source": "Africa Travel",
+    "path": "Travel > Travel Locations > Africa Travel",
+    "zh": "非洲旅游"
+  },
+  {
+    "id": "657",
+    "parent": "655",
+    "source": "Asia Travel",
+    "path": "Travel > Travel Locations > Asia Travel",
+    "zh": "亚洲旅游"
+  },
+  {
+    "id": "658",
+    "parent": "655",
+    "source": "Australia and Oceania Travel",
+    "path": "Travel > Travel Locations > Australia and Oceania Travel",
+    "zh": "澳大利亚与大洋洲旅游"
+  },
+  {
+    "id": "659",
+    "parent": "655",
+    "source": "Europe Travel",
+    "path": "Travel > Travel Locations > Europe Travel",
+    "zh": "欧洲旅游"
+  },
+  {
+    "id": "660",
+    "parent": "655",
+    "source": "North America Travel",
+    "path": "Travel > Travel Locations > North America Travel",
+    "zh": "北美洲旅游"
+  },
+  {
+    "id": "661",
+    "parent": "655",
+    "source": "Polar Travel",
+    "path": "Travel > Travel Locations > Polar Travel",
+    "zh": "极地旅游"
+  },
+  {
+    "id": "662",
+    "parent": "655",
+    "source": "South America Travel",
+    "path": "Travel > Travel Locations > South America Travel",
+    "zh": "南美洲旅游"
+  },
+  {
+    "id": "663",
+    "parent": "653",
+    "source": "Travel Preparation and Advice",
+    "path": "Travel > Travel Preparation and Advice",
+    "zh": "旅行准备与建议"
+  },
+  {
+    "id": "664",
+    "parent": "653",
+    "source": "Travel Type",
+    "path": "Travel > Travel Type",
+    "zh": "旅行类型"
+  },
+  {
+    "id": "665",
+    "parent": "664",
+    "source": "Adventure Travel",
+    "path": "Travel > Travel Type > Adventure Travel",
+    "zh": "探险旅游"
+  },
+  {
+    "id": "672",
+    "parent": "664",
+    "source": "Air Travel",
+    "path": "Travel > Travel Type > Air Travel",
+    "zh": "航空旅行"
+  },
+  {
+    "id": "673",
+    "parent": "664",
+    "source": "Beach Travel",
+    "path": "Travel > Travel Type > Beach Travel",
+    "zh": "海滨旅游"
+  },
+  {
+    "id": "674",
+    "parent": "664",
+    "source": "Bed & Breakfasts",
+    "path": "Travel > Travel Type > Bed & Breakfasts",
+    "zh": "民宿"
+  },
+  {
+    "id": "675",
+    "parent": "664",
+    "source": "Budget Travel",
+    "path": "Travel > Travel Type > Budget Travel",
+    "zh": "经济型旅游"
+  },
+  {
+    "id": "676",
+    "parent": "664",
+    "source": "Business Travel",
+    "path": "Travel > Travel Type > Business Travel",
+    "zh": "商务旅行"
+  },
+  {
+    "id": "677",
+    "parent": "664",
+    "source": "Camping",
+    "path": "Travel > Travel Type > Camping",
+    "zh": "露营"
+  },
+  {
+    "id": "678",
+    "parent": "664",
+    "source": "Cruises",
+    "path": "Travel > Travel Type > Cruises",
+    "zh": "邮轮旅游"
+  },
+  {
+    "id": "679",
+    "parent": "664",
+    "source": "Day Trips",
+    "path": "Travel > Travel Type > Day Trips",
+    "zh": "一日游"
+  },
+  {
+    "id": "666",
+    "parent": "664",
+    "source": "Family Travel",
+    "path": "Travel > Travel Type > Family Travel",
+    "zh": "家庭旅行"
+  },
+  {
+    "id": "667",
+    "parent": "664",
+    "source": "Honeymoons and Getaways",
+    "path": "Travel > Travel Type > Honeymoons and Getaways",
+    "zh": "蜜月与度假"
+  },
+  {
+    "id": "668",
+    "parent": "664",
+    "source": "Hotels and Motels",
+    "path": "Travel > Travel Type > Hotels and Motels",
+    "zh": "酒店与汽车旅馆"
+  },
+  {
+    "id": "669",
+    "parent": "664",
+    "source": "Rail Travel",
+    "path": "Travel > Travel Type > Rail Travel",
+    "zh": "铁路旅行"
+  },
+  {
+    "id": "670",
+    "parent": "664",
+    "source": "Road Trips",
+    "path": "Travel > Travel Type > Road Trips",
+    "zh": "自驾游"
+  },
+  {
+    "id": "671",
+    "parent": "664",
+    "source": "Spas",
+    "path": "Travel > Travel Type > Spas",
+    "zh": "水疗中心"
+  },
+  {
+    "id": "680",
+    "parent": "",
+    "source": "Video Gaming",
+    "path": "Video Gaming",
+    "zh": "电子游戏"
+  },
+  {
+    "id": "681",
+    "parent": "680",
+    "source": "Console Games",
+    "path": "Video Gaming > Console Games",
+    "zh": "主机游戏"
+  },
+  {
+    "id": "682",
+    "parent": "680",
+    "source": "eSports",
+    "path": "Video Gaming > eSports",
+    "zh": "电子竞技"
+  },
+  {
+    "id": "683",
+    "parent": "680",
+    "source": "Mobile Games",
+    "path": "Video Gaming > Mobile Games",
+    "zh": "手机游戏"
+  },
+  {
+    "id": "684",
+    "parent": "680",
+    "source": "PC Games",
+    "path": "Video Gaming > PC Games",
+    "zh": "PC游戏"
+  },
+  {
+    "id": "685",
+    "parent": "680",
+    "source": "Video Game Genres",
+    "path": "Video Gaming > Video Game Genres",
+    "zh": "游戏类型"
+  },
+  {
+    "id": "686",
+    "parent": "685",
+    "source": "Action Video Games",
+    "path": "Video Gaming > Video Game Genres > Action Video Games",
+    "zh": "动作类游戏"
+  },
+  {
+    "id": "691",
+    "parent": "685",
+    "source": "Action-Adventure Video Games",
+    "path": "Video Gaming > Video Game Genres > Action-Adventure Video Games",
+    "zh": "动作冒险类游戏"
+  },
+  {
+    "id": "MQ2XML",
+    "parent": "685",
+    "source": "Adult Video Games",
+    "path": "Video Gaming > Video Game Genres > Adult Video Games",
+    "zh": "成人向游戏"
+  },
+  {
+    "id": "692",
+    "parent": "685",
+    "source": "Adventure Video Games",
+    "path": "Video Gaming > Video Game Genres > Adventure Video Games",
+    "zh": "冒险类游戏"
+  },
+  {
+    "id": "ZJG29S",
+    "parent": "685",
+    "source": "Casino and Gambling Video Games",
+    "path": "Video Gaming > Video Game Genres > Casino and Gambling Video Games",
+    "zh": "赌场与博彩类游戏"
+  },
+  {
+    "id": "693",
+    "parent": "685",
+    "source": "Casual Games",
+    "path": "Video Gaming > Video Game Genres > Casual Games",
+    "zh": "休闲游戏"
+  },
+  {
+    "id": "694",
+    "parent": "685",
+    "source": "Educational Video Games",
+    "path": "Video Gaming > Video Game Genres > Educational Video Games",
+    "zh": "教育类游戏"
+  },
+  {
+    "id": "695",
+    "parent": "685",
+    "source": "Exercise and Fitness Video Games",
+    "path": "Video Gaming > Video Game Genres > Exercise and Fitness Video Games",
+    "zh": "健身与运动类游戏"
+  },
+  {
+    "id": "VWGKS7",
+    "parent": "685",
+    "source": "Family Video Games",
+    "path": "Video Gaming > Video Game Genres > Family Video Games",
+    "zh": "家庭向游戏"
+  },
+  {
+    "id": "II436J",
+    "parent": "685",
+    "source": "Horror Video Games",
+    "path": "Video Gaming > Video Game Genres > Horror Video Games",
+    "zh": "恐怖类游戏"
+  },
+  {
+    "id": "696",
+    "parent": "685",
+    "source": "MMOs",
+    "path": "Video Gaming > Video Game Genres > MMOs",
+    "zh": "大型多人在线游戏（MMO）"
+  },
+  {
+    "id": "697",
+    "parent": "685",
+    "source": "Music and Party Video Games",
+    "path": "Video Gaming > Video Game Genres > Music and Party Video Games",
+    "zh": "音乐与派对类游戏"
+  },
+  {
+    "id": "698",
+    "parent": "685",
+    "source": "Puzzle Video Games",
+    "path": "Video Gaming > Video Game Genres > Puzzle Video Games",
+    "zh": "解谜类游戏"
+  },
+  {
+    "id": "VK7KD0",
+    "parent": "685",
+    "source": "Racing Video Games",
+    "path": "Video Gaming > Video Game Genres > Racing Video Games",
+    "zh": "竞速类游戏"
+  },
+  {
+    "id": "687",
+    "parent": "685",
+    "source": "Role-Playing Video Games",
+    "path": "Video Gaming > Video Game Genres > Role-Playing Video Games",
+    "zh": "角色扮演类游戏"
+  },
+  {
+    "id": "688",
+    "parent": "685",
+    "source": "Simulation Video Games",
+    "path": "Video Gaming > Video Game Genres > Simulation Video Games",
+    "zh": "模拟类电子游戏"
+  },
+  {
+    "id": "689",
+    "parent": "685",
+    "source": "Sports Video Games",
+    "path": "Video Gaming > Video Game Genres > Sports Video Games",
+    "zh": "体育类电子游戏"
+  },
+  {
+    "id": "690",
+    "parent": "685",
+    "source": "Strategy Video Games",
+    "path": "Video Gaming > Video Game Genres > Strategy Video Games",
+    "zh": "策略类电子游戏"
+  },
+  {
+    "id": "389",
+    "parent": "",
+    "source": "War and Conflicts",
+    "path": "War and Conflicts",
+    "zh": "战争与冲突"
+  }
+]
